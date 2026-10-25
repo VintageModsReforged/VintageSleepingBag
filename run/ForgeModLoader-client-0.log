@@ -1,0 +1,304 @@
+2026-10-25 20:10:13 [INFO] [ForgeModLoader] Forge Mod Loader version 5.2.23.738 for Minecraft 1.5.2 loading
+2026-10-25 20:10:13 [INFO] [ForgeModLoader] Java is OpenJDK 64-Bit Server VM, version 1.8.0_504, running on Windows 11:amd64:10.0, installed at C:\Users\CrossVas\.gradle\jdks\temurin-8-amd64-windows\jdk8u504-b01\jre
+2026-10-25 20:10:13 [FINE] [ForgeModLoader] Java classpath at launch is C:\Users\CrossVas\.gradle\caches\voldeloom\forgeLibs\net.minecraftforge_forge_1.5.2-7.8.1.738\argo-small-3.2.jar;C:\Users\CrossVas\.gradle\caches\voldeloom\forgeLibs\net.minecraftforge_forge_1.5.2-7.8.1.738\guava-14.0-rc3.jar;C:\Users\CrossVas\.gradle\caches\voldeloom\forgeLibs\net.minecraftforge_forge_1.5.2-7.8.1.738\asm-all-4.1.jar;C:\Users\CrossVas\.gradle\caches\voldeloom\forgeLibs\net.minecraftforge_forge_1.5.2-7.8.1.738\bcprov-jdk15on-148.jar;C:\Users\CrossVas\.gradle\caches\voldeloom\forgeLibs\net.minecraftforge_forge_1.5.2-7.8.1.738\scala-library.jar;C:\Users\CrossVas\.gradle\caches\voldeloom\mapped\net.minecraftforge_forge_1.5.2-7.8.1.738\minecraft-1.5.2-forge-1.5.2-7.8.1.738-named-3f019cc5.jar;D:\Games\Minecraft\Workspace\VintageModsReforged\SleepingBag - 1.5.2\.gradle\voldeloom-cache\remapped-mods\VintageCore-1.5.2-2.0.2-dev.jar-mapped-net.minecraftforge_forge_1.5.2-7.8.1.738.jar;C:\Users\CrossVas\.gradle\caches\modules-2\files-2.1\net.minecraft\launchwrapper\1.5\5150b9c2951f0fde987ce9c33496e26add1de224\launchwrapper-1.5.jar;C:\Users\CrossVas\.gradle\caches\modules-2\files-2.1\net.sf.jopt-simple\jopt-simple\4.5\6065cc95c661255349c1d0756657be17c29a4fd3\jopt-simple-4.5.jar;C:\Users\CrossVas\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-all\4.1\54986e962b88d8660ae4566475658469595ef58\asm-all-4.1.jar;C:\Users\CrossVas\.gradle\caches\modules-2\files-2.1\org.lwjgl.lwjgl\lwjgl_util\2.9.0\a778846b64008fc7f48ead2377f034e547991699\lwjgl_util-2.9.0.jar;C:\Users\CrossVas\.gradle\caches\modules-2\files-2.1\org.lwjgl.lwjgl\lwjgl\2.9.0\5654d06e61a1bba7ae1e7f5233e1106be64c91cd\lwjgl-2.9.0.jar;C:\Users\CrossVas\.gradle\caches\modules-2\files-2.1\net.java.jinput\jinput\2.0.5\39c7796b469a600f72380316f6b1f11db6c2c7c4\jinput-2.0.5.jar;C:\Users\CrossVas\.gradle\caches\modules-2\files-2.1\net.java.jutils\jutils\1.0.0\e12fe1fda814bd348c1579329c86943d2cd3c6a6\jutils-1.0.0.jar;C:\Users\CrossVas\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-debug-all\4.1\dd6ba5c392d4102458494e29f54f70ac534ec2a2\asm-debug-all-4.1.jar;C:\Users\CrossVas\.gradle\caches\modules-2\files-2.1\net.java.jinput\jinput-platform\2.0.5\7ff832a6eb9ab6a767f1ade2b548092d0fa64795\jinput-platform-2.0.5-natives-linux.jar;C:\Users\CrossVas\.gradle\caches\modules-2\files-2.1\net.java.jinput\jinput-platform\2.0.5\385ee093e01f587f30ee1c8a2ee7d408fd732e16\jinput-platform-2.0.5-natives-windows.jar;C:\Users\CrossVas\.gradle\caches\modules-2\files-2.1\net.java.jinput\jinput-platform\2.0.5\53f9c919f34d2ca9de8c51fc4e1e8282029a9232\jinput-platform-2.0.5-natives-osx.jar;C:\Users\CrossVas\.gradle\caches\modules-2\files-2.1\org.lwjgl.lwjgl\lwjgl-platform\2.9.0\3f11873dc8e84c854ec7c5a8fd2e869f8aaef764\lwjgl-platform-2.9.0-natives-windows.jar;C:\Users\CrossVas\.gradle\caches\modules-2\files-2.1\org.lwjgl.lwjgl\lwjgl-platform\2.9.0\2ba5dcb11048147f1a74eff2deb192c001321f77\lwjgl-platform-2.9.0-natives-linux.jar;C:\Users\CrossVas\.gradle\caches\modules-2\files-2.1\org.lwjgl.lwjgl\lwjgl-platform\2.9.0\6621b382cb14cc409b041d8d72829156a87c31aa\lwjgl-platform-2.9.0-natives-osx.jar;D:\Games\Minecraft\Workspace\VintageModsReforged\SleepingBag - 1.5.2\build\libs\SleepingBag-1.5.2-1.0.0-dev.jar;C:\Users\CrossVas\AppData\Local\JetBrains\IntelliJIdea2026.2\captureAgent\debugger-agent.jar
+2026-10-25 20:10:13 [FINE] [ForgeModLoader] Java library path at launch is C:\Users\CrossVas\.gradle\caches\voldeloom\natives\1.5.2-d1a87b84
+2026-10-25 20:10:13 [INFO] [ForgeModLoader] Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+2026-10-25 20:10:13 [FINEST] [ForgeModLoader] All core mods are successfully located
+2026-10-25 20:10:13 [FINEST] [ForgeModLoader] Discovering coremods
+2026-10-25 20:10:13 [FINEST] [ForgeModLoader] Found library file argo-small-3.2.jar present and correct in lib dir
+2026-10-25 20:10:13 [FINEST] [ForgeModLoader] Found library file guava-14.0-rc3.jar present and correct in lib dir
+2026-10-25 20:10:13 [FINEST] [ForgeModLoader] Found library file asm-all-4.1.jar present and correct in lib dir
+2026-10-25 20:10:13 [FINEST] [ForgeModLoader] Found library file bcprov-jdk15on-148.jar present and correct in lib dir
+2026-10-25 20:10:13 [FINEST] [ForgeModLoader] Found library file deobfuscation_data_1.5.2.zip present and correct in lib dir
+2026-10-25 20:10:13 [FINEST] [ForgeModLoader] Found library file scala-library.jar present and correct in lib dir
+2026-10-25 20:10:13 [FINEST] [ForgeModLoader] Running coremod plugins
+2026-10-25 20:10:13 [FINEST] [ForgeModLoader] Running coremod plugin FMLCorePlugin
+2026-10-25 20:10:14 [SEVERE] [ForgeModLoader] FML appears to be missing any signature data. This is not a good thing
+2026-10-25 20:10:14 [FINEST] [ForgeModLoader] Coremod plugin FMLCorePlugin run successfully
+2026-10-25 20:10:14 [FINEST] [ForgeModLoader] Running coremod plugin FMLForgePlugin
+2026-10-25 20:10:14 [FINEST] [ForgeModLoader] Coremod plugin FMLForgePlugin run successfully
+2026-10-25 20:10:14 [FINEST] [ForgeModLoader] Validating minecraft
+2026-10-25 20:10:14 [FINEST] [ForgeModLoader] Minecraft validated, launching...
+2026-10-25 20:10:14 [INFO] [STDOUT] 229 recipes
+2026-10-25 20:10:14 [INFO] [STDOUT] 27 achievements
+2026-10-25 20:10:14 [INFO] [Minecraft-Client] Setting user: quaternary
+2026-10-25 20:10:14 [INFO] [STDOUT] (Session ID is -)
+2026-10-25 20:10:14 [INFO] [STDERR] Client asked for parameter: server
+2026-10-25 20:10:14 [INFO] [Minecraft-Client] LWJGL Version: 2.9.0
+2026-10-25 20:10:14 [INFO] [MinecraftForge] Attempting early MinecraftForge initialization
+2026-10-25 20:10:14 [INFO] [STDOUT] MinecraftForge v7.8.1.738 Initialized
+2026-10-25 20:10:14 [INFO] [ForgeModLoader] MinecraftForge v7.8.1.738 Initialized
+2026-10-25 20:10:14 [INFO] [STDOUT] Replaced 85 ore recipies
+2026-10-25 20:10:14 [INFO] [MinecraftForge] Completed early MinecraftForge initialization
+2026-10-25 20:10:14 [INFO] [ForgeModLoader] Reading custom logging properties from D:\Games\Minecraft\Workspace\VintageModsReforged\SleepingBag - 1.5.2\run\config\logging.properties
+2026-10-25 20:10:14 [OFF] [ForgeModLoader] Logging level for ForgeModLoader logging is set to ALL
+2026-10-25 20:10:14 [FINE] [ForgeModLoader] Building injected Mod Containers [cpw.mods.fml.common.FMLDummyContainer, net.minecraftforge.common.ForgeDummyContainer]
+2026-10-25 20:10:14 [FINE] [ForgeModLoader] Attempting to load mods contained in the minecraft jar file and associated classes
+2026-10-25 20:10:14 [FINER] [ForgeModLoader] Skipping known library file C:\Users\CrossVas\.gradle\caches\voldeloom\forgeLibs\net.minecraftforge_forge_1.5.2-7.8.1.738\argo-small-3.2.jar
+2026-10-25 20:10:14 [FINER] [ForgeModLoader] Skipping known library file C:\Users\CrossVas\.gradle\caches\voldeloom\forgeLibs\net.minecraftforge_forge_1.5.2-7.8.1.738\guava-14.0-rc3.jar
+2026-10-25 20:10:14 [FINER] [ForgeModLoader] Skipping known library file C:\Users\CrossVas\.gradle\caches\voldeloom\forgeLibs\net.minecraftforge_forge_1.5.2-7.8.1.738\asm-all-4.1.jar
+2026-10-25 20:10:14 [FINER] [ForgeModLoader] Skipping known library file C:\Users\CrossVas\.gradle\caches\voldeloom\forgeLibs\net.minecraftforge_forge_1.5.2-7.8.1.738\bcprov-jdk15on-148.jar
+2026-10-25 20:10:14 [FINER] [ForgeModLoader] Skipping known library file C:\Users\CrossVas\.gradle\caches\voldeloom\forgeLibs\net.minecraftforge_forge_1.5.2-7.8.1.738\scala-library.jar
+2026-10-25 20:10:14 [FINE] [ForgeModLoader] Found a minecraft related file at C:\Users\CrossVas\.gradle\caches\voldeloom\mapped\net.minecraftforge_forge_1.5.2-7.8.1.738\minecraft-1.5.2-forge-1.5.2-7.8.1.738-named-3f019cc5.jar, examining for mod candidates
+2026-10-25 20:10:14 [FINE] [ForgeModLoader] Found a minecraft related file at D:\Games\Minecraft\Workspace\VintageModsReforged\SleepingBag - 1.5.2\.gradle\voldeloom-cache\remapped-mods\VintageCore-1.5.2-2.0.2-dev.jar-mapped-net.minecraftforge_forge_1.5.2-7.8.1.738.jar, examining for mod candidates
+2026-10-25 20:10:14 [FINE] [ForgeModLoader] Found a minecraft related file at C:\Users\CrossVas\.gradle\caches\modules-2\files-2.1\net.minecraft\launchwrapper\1.5\5150b9c2951f0fde987ce9c33496e26add1de224\launchwrapper-1.5.jar, examining for mod candidates
+2026-10-25 20:10:14 [FINE] [ForgeModLoader] Found a minecraft related file at C:\Users\CrossVas\.gradle\caches\modules-2\files-2.1\net.sf.jopt-simple\jopt-simple\4.5\6065cc95c661255349c1d0756657be17c29a4fd3\jopt-simple-4.5.jar, examining for mod candidates
+2026-10-25 20:10:14 [FINER] [ForgeModLoader] Skipping known library file C:\Users\CrossVas\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-all\4.1\54986e962b88d8660ae4566475658469595ef58\asm-all-4.1.jar
+2026-10-25 20:10:14 [FINE] [ForgeModLoader] Found a minecraft related file at C:\Users\CrossVas\.gradle\caches\modules-2\files-2.1\org.lwjgl.lwjgl\lwjgl_util\2.9.0\a778846b64008fc7f48ead2377f034e547991699\lwjgl_util-2.9.0.jar, examining for mod candidates
+2026-10-25 20:10:14 [FINE] [ForgeModLoader] Found a minecraft related file at C:\Users\CrossVas\.gradle\caches\modules-2\files-2.1\org.lwjgl.lwjgl\lwjgl\2.9.0\5654d06e61a1bba7ae1e7f5233e1106be64c91cd\lwjgl-2.9.0.jar, examining for mod candidates
+2026-10-25 20:10:14 [FINE] [ForgeModLoader] Found a minecraft related file at C:\Users\CrossVas\.gradle\caches\modules-2\files-2.1\net.java.jinput\jinput\2.0.5\39c7796b469a600f72380316f6b1f11db6c2c7c4\jinput-2.0.5.jar, examining for mod candidates
+2026-10-25 20:10:14 [FINE] [ForgeModLoader] Found a minecraft related file at C:\Users\CrossVas\.gradle\caches\modules-2\files-2.1\net.java.jutils\jutils\1.0.0\e12fe1fda814bd348c1579329c86943d2cd3c6a6\jutils-1.0.0.jar, examining for mod candidates
+2026-10-25 20:10:14 [FINE] [ForgeModLoader] Found a minecraft related file at C:\Users\CrossVas\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-debug-all\4.1\dd6ba5c392d4102458494e29f54f70ac534ec2a2\asm-debug-all-4.1.jar, examining for mod candidates
+2026-10-25 20:10:14 [FINE] [ForgeModLoader] Found a minecraft related file at C:\Users\CrossVas\.gradle\caches\modules-2\files-2.1\net.java.jinput\jinput-platform\2.0.5\7ff832a6eb9ab6a767f1ade2b548092d0fa64795\jinput-platform-2.0.5-natives-linux.jar, examining for mod candidates
+2026-10-25 20:10:14 [FINE] [ForgeModLoader] Found a minecraft related file at C:\Users\CrossVas\.gradle\caches\modules-2\files-2.1\net.java.jinput\jinput-platform\2.0.5\385ee093e01f587f30ee1c8a2ee7d408fd732e16\jinput-platform-2.0.5-natives-windows.jar, examining for mod candidates
+2026-10-25 20:10:14 [FINE] [ForgeModLoader] Found a minecraft related file at C:\Users\CrossVas\.gradle\caches\modules-2\files-2.1\net.java.jinput\jinput-platform\2.0.5\53f9c919f34d2ca9de8c51fc4e1e8282029a9232\jinput-platform-2.0.5-natives-osx.jar, examining for mod candidates
+2026-10-25 20:10:14 [FINE] [ForgeModLoader] Found a minecraft related file at C:\Users\CrossVas\.gradle\caches\modules-2\files-2.1\org.lwjgl.lwjgl\lwjgl-platform\2.9.0\3f11873dc8e84c854ec7c5a8fd2e869f8aaef764\lwjgl-platform-2.9.0-natives-windows.jar, examining for mod candidates
+2026-10-25 20:10:14 [FINE] [ForgeModLoader] Found a minecraft related file at C:\Users\CrossVas\.gradle\caches\modules-2\files-2.1\org.lwjgl.lwjgl\lwjgl-platform\2.9.0\2ba5dcb11048147f1a74eff2deb192c001321f77\lwjgl-platform-2.9.0-natives-linux.jar, examining for mod candidates
+2026-10-25 20:10:14 [FINE] [ForgeModLoader] Found a minecraft related file at C:\Users\CrossVas\.gradle\caches\modules-2\files-2.1\org.lwjgl.lwjgl\lwjgl-platform\2.9.0\6621b382cb14cc409b041d8d72829156a87c31aa\lwjgl-platform-2.9.0-natives-osx.jar, examining for mod candidates
+2026-10-25 20:10:14 [FINE] [ForgeModLoader] Found a minecraft related file at D:\Games\Minecraft\Workspace\VintageModsReforged\SleepingBag - 1.5.2\build\libs\SleepingBag-1.5.2-1.0.0-dev.jar, examining for mod candidates
+2026-10-25 20:10:14 [FINE] [ForgeModLoader] Found a minecraft related file at C:\Users\CrossVas\AppData\Local\JetBrains\IntelliJIdea2026.2\captureAgent\debugger-agent.jar, examining for mod candidates
+2026-10-25 20:10:14 [FINER] [ForgeModLoader] Skipping known library file D:\Games\Minecraft\Workspace\VintageModsReforged\SleepingBag - 1.5.2\run\lib\argo-small-3.2.jar
+2026-10-25 20:10:14 [FINER] [ForgeModLoader] Skipping known library file D:\Games\Minecraft\Workspace\VintageModsReforged\SleepingBag - 1.5.2\run\lib\guava-14.0-rc3.jar
+2026-10-25 20:10:14 [FINER] [ForgeModLoader] Skipping known library file D:\Games\Minecraft\Workspace\VintageModsReforged\SleepingBag - 1.5.2\run\lib\asm-all-4.1.jar
+2026-10-25 20:10:14 [FINER] [ForgeModLoader] Skipping known library file D:\Games\Minecraft\Workspace\VintageModsReforged\SleepingBag - 1.5.2\run\lib\bcprov-jdk15on-148.jar
+2026-10-25 20:10:14 [FINER] [ForgeModLoader] Skipping known library file D:\Games\Minecraft\Workspace\VintageModsReforged\SleepingBag - 1.5.2\run\lib\deobfuscation_data_1.5.2.zip
+2026-10-25 20:10:14 [FINER] [ForgeModLoader] Skipping known library file D:\Games\Minecraft\Workspace\VintageModsReforged\SleepingBag - 1.5.2\run\lib\scala-library.jar
+2026-10-25 20:10:14 [FINE] [ForgeModLoader] Minecraft jar mods loaded successfully
+2026-10-25 20:10:14 [INFO] [ForgeModLoader] Searching D:\Games\Minecraft\Workspace\VintageModsReforged\SleepingBag - 1.5.2\run\mods for mods
+2026-10-25 20:10:14 [FINE] [ForgeModLoader] Examining file minecraft-1.5.2-forge-1.5.2-7.8.1.738-named-3f019cc5.jar for potential mods
+2026-10-25 20:10:14 [FINE] [ForgeModLoader] The mod container minecraft-1.5.2-forge-1.5.2-7.8.1.738-named-3f019cc5.jar appears to be missing an mcmod.info file
+2026-10-25 20:10:14 [FINE] [ForgeModLoader] Examining file VintageCore-1.5.2-2.0.2-dev.jar-mapped-net.minecraftforge_forge_1.5.2-7.8.1.738.jar for potential mods
+2026-10-25 20:10:14 [FINER] [ForgeModLoader] Located mcmod.info file in file VintageCore-1.5.2-2.0.2-dev.jar-mapped-net.minecraftforge_forge_1.5.2-7.8.1.738.jar
+2026-10-25 20:10:14 [FINE] [ForgeModLoader] Identified an FMLMod type mod mods.vintage.core.VintageCore
+2026-10-25 20:10:14 [FINEST] [VintageCore] Parsed dependency info : [] [] []
+2026-10-25 20:10:14 [FINE] [VintageCore] Attempting to load the file version.properties from VintageCore-1.5.2-2.0.2-dev.jar-mapped-net.minecraftforge_forge_1.5.2-7.8.1.738.jar to locate a version number for VintageCore
+2026-10-25 20:10:14 [WARNING] [VintageCore] Mod VintageCore is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.5.2-2.0.2
+2026-10-25 20:10:14 [FINE] [ForgeModLoader] Examining file launchwrapper-1.5.jar for potential mods
+2026-10-25 20:10:14 [FINE] [ForgeModLoader] The mod container launchwrapper-1.5.jar appears to be missing an mcmod.info file
+2026-10-25 20:10:14 [FINE] [ForgeModLoader] Examining file jopt-simple-4.5.jar for potential mods
+2026-10-25 20:10:14 [FINE] [ForgeModLoader] The mod container jopt-simple-4.5.jar appears to be missing an mcmod.info file
+2026-10-25 20:10:14 [FINE] [ForgeModLoader] Examining file lwjgl_util-2.9.0.jar for potential mods
+2026-10-25 20:10:14 [FINE] [ForgeModLoader] The mod container lwjgl_util-2.9.0.jar appears to be missing an mcmod.info file
+2026-10-25 20:10:14 [FINE] [ForgeModLoader] Examining file lwjgl-2.9.0.jar for potential mods
+2026-10-25 20:10:14 [FINE] [ForgeModLoader] The mod container lwjgl-2.9.0.jar appears to be missing an mcmod.info file
+2026-10-25 20:10:15 [FINE] [ForgeModLoader] Examining file jinput-2.0.5.jar for potential mods
+2026-10-25 20:10:15 [FINE] [ForgeModLoader] The mod container jinput-2.0.5.jar appears to be missing an mcmod.info file
+2026-10-25 20:10:15 [FINE] [ForgeModLoader] Examining file jutils-1.0.0.jar for potential mods
+2026-10-25 20:10:15 [FINE] [ForgeModLoader] The mod container jutils-1.0.0.jar appears to be missing an mcmod.info file
+2026-10-25 20:10:15 [FINE] [ForgeModLoader] Examining file asm-debug-all-4.1.jar for potential mods
+2026-10-25 20:10:15 [FINE] [ForgeModLoader] The mod container asm-debug-all-4.1.jar appears to be missing an mcmod.info file
+2026-10-25 20:10:15 [FINE] [ForgeModLoader] Examining file jinput-platform-2.0.5-natives-linux.jar for potential mods
+2026-10-25 20:10:15 [FINE] [ForgeModLoader] The mod container jinput-platform-2.0.5-natives-linux.jar appears to be missing an mcmod.info file
+2026-10-25 20:10:15 [FINE] [ForgeModLoader] Examining file jinput-platform-2.0.5-natives-windows.jar for potential mods
+2026-10-25 20:10:15 [FINE] [ForgeModLoader] The mod container jinput-platform-2.0.5-natives-windows.jar appears to be missing an mcmod.info file
+2026-10-25 20:10:15 [FINE] [ForgeModLoader] Examining file jinput-platform-2.0.5-natives-osx.jar for potential mods
+2026-10-25 20:10:15 [FINE] [ForgeModLoader] The mod container jinput-platform-2.0.5-natives-osx.jar appears to be missing an mcmod.info file
+2026-10-25 20:10:15 [FINE] [ForgeModLoader] Examining file lwjgl-platform-2.9.0-natives-windows.jar for potential mods
+2026-10-25 20:10:15 [FINE] [ForgeModLoader] The mod container lwjgl-platform-2.9.0-natives-windows.jar appears to be missing an mcmod.info file
+2026-10-25 20:10:15 [FINE] [ForgeModLoader] Examining file lwjgl-platform-2.9.0-natives-linux.jar for potential mods
+2026-10-25 20:10:15 [FINE] [ForgeModLoader] The mod container lwjgl-platform-2.9.0-natives-linux.jar appears to be missing an mcmod.info file
+2026-10-25 20:10:15 [FINE] [ForgeModLoader] Examining file lwjgl-platform-2.9.0-natives-osx.jar for potential mods
+2026-10-25 20:10:15 [FINE] [ForgeModLoader] The mod container lwjgl-platform-2.9.0-natives-osx.jar appears to be missing an mcmod.info file
+2026-10-25 20:10:15 [FINE] [ForgeModLoader] Examining file SleepingBag-1.5.2-1.0.0-dev.jar for potential mods
+2026-10-25 20:10:15 [FINE] [ForgeModLoader] The mod container SleepingBag-1.5.2-1.0.0-dev.jar appears to be missing an mcmod.info file
+2026-10-25 20:10:15 [FINE] [ForgeModLoader] Identified an FMLMod type mod dev.vintage.sleepingbag.SleepingBag
+2026-10-25 20:10:15 [FINEST] [SleepingBag] Parsed dependency info : [] [] []
+2026-10-25 20:10:15 [FINE] [ForgeModLoader] Examining file debugger-agent.jar for potential mods
+2026-10-25 20:10:15 [FINE] [ForgeModLoader] The mod container debugger-agent.jar appears to be missing an mcmod.info file
+2026-10-25 20:10:15 [INFO] [ForgeModLoader] Forge Mod Loader has identified 5 mods to load
+2026-10-25 20:10:15 [FINER] [ForgeModLoader] Received a system property request ''
+2026-10-25 20:10:15 [FINER] [ForgeModLoader] System property request managing the state of 0 mods
+2026-10-25 20:10:15 [FINE] [ForgeModLoader] After merging, found state information for 0 mods
+2026-10-25 20:10:15 [FINE] [ForgeModLoader] Reloading logging properties from D:\Games\Minecraft\Workspace\VintageModsReforged\SleepingBag - 1.5.2\run\config\logging.properties
+2026-10-25 20:10:15 [FINE] [ForgeModLoader] Reloaded logging properties
+2026-10-25 20:10:15 [FINE] [mcp] Mod Logging channel mcp configured at default level.
+2026-10-25 20:10:15 [INFO] [mcp] Activating mod mcp
+2026-10-25 20:10:15 [FINE] [FML] Mod Logging channel FML configured at default level.
+2026-10-25 20:10:15 [INFO] [FML] Activating mod FML
+2026-10-25 20:10:15 [FINE] [Forge] Mod Logging channel Forge configured at default level.
+2026-10-25 20:10:15 [INFO] [Forge] Activating mod Forge
+2026-10-25 20:10:15 [FINE] [VintageCore] Enabling mod VintageCore
+2026-10-25 20:10:15 [FINE] [VintageCore] Mod Logging channel VintageCore configured at default level.
+2026-10-25 20:10:15 [INFO] [VintageCore] Activating mod VintageCore
+2026-10-25 20:10:15 [FINE] [SleepingBag] Enabling mod SleepingBag
+2026-10-25 20:10:15 [FINE] [SleepingBag] Mod Logging channel SleepingBag configured at default level.
+2026-10-25 20:10:15 [INFO] [SleepingBag] Activating mod SleepingBag
+2026-10-25 20:10:15 [FINER] [ForgeModLoader] Verifying mod requirements are satisfied
+2026-10-25 20:10:15 [FINER] [ForgeModLoader] All mod requirements are satisfied
+2026-10-25 20:10:15 [FINER] [ForgeModLoader] Sorting mods into an ordered list
+2026-10-25 20:10:15 [FINER] [ForgeModLoader] Mod sorting completed successfully
+2026-10-25 20:10:15 [FINE] [ForgeModLoader] Mod sorting data
+2026-10-25 20:10:15 [FINE] [ForgeModLoader] 	VintageCore(Vintage: Core:1.5.2-2.0.2): VintageCore-1.5.2-2.0.2-dev.jar-mapped-net.minecraftforge_forge_1.5.2-7.8.1.738.jar ()
+2026-10-25 20:10:15 [FINE] [ForgeModLoader] 	SleepingBag(Sleeping Bag:1.5.2-1.0.0): SleepingBag-1.5.2-1.0.0-dev.jar ()
+2026-10-25 20:10:15 [FINEST] [mcp] Sending event FMLConstructionEvent to mod mcp
+2026-10-25 20:10:15 [FINEST] [mcp] Sent event FMLConstructionEvent to mod mcp
+2026-10-25 20:10:15 [FINEST] [FML] Sending event FMLConstructionEvent to mod FML
+2026-10-25 20:10:15 [FINEST] [FML] Sent event FMLConstructionEvent to mod FML
+2026-10-25 20:10:15 [FINEST] [Forge] Sending event FMLConstructionEvent to mod Forge
+2026-10-25 20:10:15 [INFO] [ForgeModLoader] Registering Forge Packet Handler
+2026-10-25 20:10:15 [FINEST] [ForgeModLoader] Testing mod Forge to verify it accepts its own version in a remote connection
+2026-10-25 20:10:15 [FINEST] [ForgeModLoader] The mod Forge accepts its own version (7.8.1.738)
+2026-10-25 20:10:15 [INFO] [ForgeModLoader] Succeeded registering Forge Packet Handler
+2026-10-25 20:10:15 [FINEST] [Forge] Sent event FMLConstructionEvent to mod Forge
+2026-10-25 20:10:15 [FINEST] [VintageCore] Sending event FMLConstructionEvent to mod VintageCore
+2026-10-25 20:10:15 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into VintageCore
+2026-10-25 20:10:15 [FINEST] [VintageCore] Sent event FMLConstructionEvent to mod VintageCore
+2026-10-25 20:10:15 [FINEST] [SleepingBag] Sending event FMLConstructionEvent to mod SleepingBag
+2026-10-25 20:10:15 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into SleepingBag
+2026-10-25 20:10:15 [FINEST] [SleepingBag] Sent event FMLConstructionEvent to mod SleepingBag
+2026-10-25 20:10:15 [FINE] [ForgeModLoader] Mod signature data
+2026-10-25 20:10:15 [FINE] [ForgeModLoader] 	mcp(Minecraft Coder Pack:7.51): minecraft.jar (NO VALID CERTIFICATE FOUND)
+2026-10-25 20:10:15 [FINE] [ForgeModLoader] 	FML(Forge Mod Loader:5.2.23.738): coremods (NO VALID CERTIFICATE FOUND)
+2026-10-25 20:10:15 [FINE] [ForgeModLoader] 	Forge(Minecraft Forge:7.8.1.738): coremods (NO VALID CERTIFICATE FOUND)
+2026-10-25 20:10:15 [FINE] [ForgeModLoader] 	VintageCore(Vintage: Core:1.5.2-2.0.2): VintageCore-1.5.2-2.0.2-dev.jar-mapped-net.minecraftforge_forge_1.5.2-7.8.1.738.jar (NO VALID CERTIFICATE FOUND)
+2026-10-25 20:10:15 [FINE] [ForgeModLoader] 	SleepingBag(Sleeping Bag:1.5.2-1.0.0): SleepingBag-1.5.2-1.0.0-dev.jar (NO VALID CERTIFICATE FOUND)
+2026-10-25 20:10:15 [FINEST] [mcp] Sending event FMLPreInitializationEvent to mod mcp
+2026-10-25 20:10:15 [FINEST] [mcp] Sent event FMLPreInitializationEvent to mod mcp
+2026-10-25 20:10:15 [FINEST] [FML] Sending event FMLPreInitializationEvent to mod FML
+2026-10-25 20:10:15 [FINEST] [FML] Sent event FMLPreInitializationEvent to mod FML
+2026-10-25 20:10:15 [FINEST] [Forge] Sending event FMLPreInitializationEvent to mod Forge
+2026-10-25 20:10:15 [INFO] [ForgeModLoader] Configured a dormant chunk cache size of 0
+2026-10-25 20:10:15 [FINEST] [Forge] Sent event FMLPreInitializationEvent to mod Forge
+2026-10-25 20:10:15 [FINEST] [VintageCore] Sending event FMLPreInitializationEvent to mod VintageCore
+2026-10-25 20:10:15 [INFO] [Vintage Suite] Found localization provider: mods.vintage.core.VintageConfig.langs
+2026-10-25 20:10:15 [INFO] [Vintage Suite] Found localization provider: dev.vintage.sleepingbag.ModConfig.langs
+2026-10-25 20:10:15 [INFO] [Vintage Suite] Found 2 localization provider fields
+2026-10-25 20:10:15 [FINEST] [VintageCore] Sent event FMLPreInitializationEvent to mod VintageCore
+2026-10-25 20:10:15 [FINEST] [SleepingBag] Sending event FMLPreInitializationEvent to mod SleepingBag
+2026-10-25 20:10:15 [FINEST] [SleepingBag] Sent event FMLPreInitializationEvent to mod SleepingBag
+2026-10-25 20:10:15 [INFO] [STDOUT] 
+2026-10-25 20:10:15 [INFO] [STDOUT] Starting up SoundSystem...
+2026-10-25 20:10:15 [INFO] [STDOUT] Initializing LWJGL OpenAL
+2026-10-25 20:10:15 [INFO] [STDOUT]     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+2026-10-25 20:10:15 [INFO] [STDOUT] OpenAL initialized.
+2026-10-25 20:10:15 [INFO] [STDOUT] 
+2026-10-25 20:10:15 [INFO] [ForgeModLoader] Not using advanced OpenGL 4.3 advanced capability for animations : OpenGL 4.3 is available
+2026-10-25 20:10:15 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/lava_flow.txt
+2026-10-25 20:10:15 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/water_flow.txt
+2026-10-25 20:10:15 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/fire_0.txt
+2026-10-25 20:10:15 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/fire_1.txt
+2026-10-25 20:10:15 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/lava.txt
+2026-10-25 20:10:15 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/portal.txt
+2026-10-25 20:10:15 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/water.txt
+2026-10-25 20:10:15 [INFO] [Minecraft-Client] Found animation info for: textures/items/clock.txt
+2026-10-25 20:10:15 [INFO] [Minecraft-Client] Found animation info for: textures/items/compass.txt
+2026-10-25 20:10:15 [FINEST] [mcp] Sending event FMLInitializationEvent to mod mcp
+2026-10-25 20:10:15 [FINEST] [mcp] Sent event FMLInitializationEvent to mod mcp
+2026-10-25 20:10:15 [FINEST] [FML] Sending event FMLInitializationEvent to mod FML
+2026-10-25 20:10:15 [FINEST] [FML] Sent event FMLInitializationEvent to mod FML
+2026-10-25 20:10:15 [FINEST] [Forge] Sending event FMLInitializationEvent to mod Forge
+2026-10-25 20:10:15 [FINEST] [Forge] Sent event FMLInitializationEvent to mod Forge
+2026-10-25 20:10:15 [FINEST] [VintageCore] Sending event FMLInitializationEvent to mod VintageCore
+2026-10-25 20:10:15 [INFO] [Vintage Suite] Loaded JSON lang file for en_US in mod VintageCore
+2026-10-25 20:10:15 [INFO] [Vintage Suite] Loaded JSON lang file for ru_RU in mod VintageCore
+2026-10-25 20:10:15 [INFO] [Vintage Suite] Loaded JSON lang file for en_US in mod SleepingBag
+2026-10-25 20:10:15 [FINEST] [VintageCore] Sent event FMLInitializationEvent to mod VintageCore
+2026-10-25 20:10:15 [FINEST] [SleepingBag] Sending event FMLInitializationEvent to mod SleepingBag
+2026-10-25 20:10:15 [FINE] [fml.ItemTracker] Adding item dev.vintage.sleepingbag.ItemSleepingBag(31999) owned by SleepingBag
+2026-10-25 20:10:15 [FINE] [fml.ItemTracker] Adding item dev.vintage.sleepingbag.ItemDummy(31998) owned by SleepingBag
+2026-10-25 20:10:15 [FINEST] [SleepingBag] Sent event FMLInitializationEvent to mod SleepingBag
+2026-10-25 20:10:15 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod mcp
+2026-10-25 20:10:15 [FINEST] [mcp] Sending event IMCEvent to mod mcp
+2026-10-25 20:10:15 [FINEST] [mcp] Sent event IMCEvent to mod mcp
+2026-10-25 20:10:15 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod FML
+2026-10-25 20:10:15 [FINEST] [FML] Sending event IMCEvent to mod FML
+2026-10-25 20:10:15 [FINEST] [FML] Sent event IMCEvent to mod FML
+2026-10-25 20:10:15 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod Forge
+2026-10-25 20:10:15 [FINEST] [Forge] Sending event IMCEvent to mod Forge
+2026-10-25 20:10:15 [FINEST] [Forge] Sent event IMCEvent to mod Forge
+2026-10-25 20:10:15 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod VintageCore
+2026-10-25 20:10:15 [FINEST] [VintageCore] Sending event IMCEvent to mod VintageCore
+2026-10-25 20:10:15 [FINEST] [VintageCore] Sent event IMCEvent to mod VintageCore
+2026-10-25 20:10:15 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod SleepingBag
+2026-10-25 20:10:15 [FINEST] [SleepingBag] Sending event IMCEvent to mod SleepingBag
+2026-10-25 20:10:15 [FINEST] [SleepingBag] Sent event IMCEvent to mod SleepingBag
+2026-10-25 20:10:15 [FINEST] [mcp] Sending event FMLPostInitializationEvent to mod mcp
+2026-10-25 20:10:15 [FINEST] [mcp] Sent event FMLPostInitializationEvent to mod mcp
+2026-10-25 20:10:15 [FINEST] [FML] Sending event FMLPostInitializationEvent to mod FML
+2026-10-25 20:10:15 [FINEST] [FML] Sent event FMLPostInitializationEvent to mod FML
+2026-10-25 20:10:15 [FINEST] [Forge] Sending event FMLPostInitializationEvent to mod Forge
+2026-10-25 20:10:15 [FINEST] [Forge] Sent event FMLPostInitializationEvent to mod Forge
+2026-10-25 20:10:15 [FINEST] [VintageCore] Sending event FMLPostInitializationEvent to mod VintageCore
+2026-10-25 20:10:15 [FINEST] [VintageCore] Sent event FMLPostInitializationEvent to mod VintageCore
+2026-10-25 20:10:15 [FINEST] [SleepingBag] Sending event FMLPostInitializationEvent to mod SleepingBag
+2026-10-25 20:10:15 [FINEST] [SleepingBag] Sent event FMLPostInitializationEvent to mod SleepingBag
+2026-10-25 20:10:15 [FINEST] [mcp] Sending event FMLLoadCompleteEvent to mod mcp
+2026-10-25 20:10:15 [FINEST] [mcp] Sent event FMLLoadCompleteEvent to mod mcp
+2026-10-25 20:10:15 [FINEST] [FML] Sending event FMLLoadCompleteEvent to mod FML
+2026-10-25 20:10:15 [FINEST] [FML] Sent event FMLLoadCompleteEvent to mod FML
+2026-10-25 20:10:15 [FINEST] [Forge] Sending event FMLLoadCompleteEvent to mod Forge
+2026-10-25 20:10:15 [FINEST] [Forge] Sent event FMLLoadCompleteEvent to mod Forge
+2026-10-25 20:10:15 [FINEST] [VintageCore] Sending event FMLLoadCompleteEvent to mod VintageCore
+2026-10-25 20:10:15 [FINEST] [VintageCore] Sent event FMLLoadCompleteEvent to mod VintageCore
+2026-10-25 20:10:15 [FINEST] [SleepingBag] Sending event FMLLoadCompleteEvent to mod SleepingBag
+2026-10-25 20:10:15 [FINEST] [SleepingBag] Sent event FMLLoadCompleteEvent to mod SleepingBag
+2026-10-25 20:10:15 [INFO] [ForgeModLoader] Forge Mod Loader has successfully loaded 5 mods
+2026-10-25 20:10:15 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/lava_flow.txt
+2026-10-25 20:10:15 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/water_flow.txt
+2026-10-25 20:10:15 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/fire_0.txt
+2026-10-25 20:10:15 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/fire_1.txt
+2026-10-25 20:10:15 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/lava.txt
+2026-10-25 20:10:15 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/portal.txt
+2026-10-25 20:10:15 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/water.txt
+2026-10-25 20:10:15 [INFO] [STDERR] java.lang.RuntimeException: Don't register null!
+2026-10-25 20:10:15 [INFO] [STDERR] 	at net.minecraft.client.renderer.texture.TextureMap.registerIcon(TextureMap.java:229)
+2026-10-25 20:10:15 [INFO] [STDERR] 	at net.minecraft.item.Item.registerIcons(Item.java:732)
+2026-10-25 20:10:15 [INFO] [STDERR] 	at net.minecraft.client.renderer.texture.TextureMap.refreshTextures(TextureMap.java:85)
+2026-10-25 20:10:15 [INFO] [STDERR] 	at net.minecraft.client.renderer.RenderEngine.refreshTextureMaps(RenderEngine.java:522)
+2026-10-25 20:10:15 [INFO] [STDERR] 	at net.minecraft.client.renderer.RenderEngine.refreshTextures(RenderEngine.java:433)
+2026-10-25 20:10:15 [INFO] [STDERR] 	at cpw.mods.fml.client.FMLClientHandler.onInitializationComplete(FMLClientHandler.java:258)
+2026-10-25 20:10:15 [INFO] [STDERR] 	at net.minecraft.client.Minecraft.startGame(Minecraft.java:479)
+2026-10-25 20:10:15 [INFO] [STDERR] 	at net.minecraft.client.MinecraftAppletImpl.startGame(MinecraftAppletImpl.java:56)
+2026-10-25 20:10:15 [INFO] [STDERR] 	at net.minecraft.client.Minecraft.run(Minecraft.java:733)
+2026-10-25 20:10:15 [INFO] [STDERR] 	at java.lang.Thread.run(Thread.java:750)
+2026-10-25 20:10:15 [WARNING] [Minecraft-Client] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2026-10-25 20:10:15 [INFO] [Minecraft-Client] Found animation info for: textures/items/clock.txt
+2026-10-25 20:10:15 [INFO] [Minecraft-Client] Found animation info for: textures/items/compass.txt
+2026-10-25 20:10:16 [WARNING] [Minecraft-Client] Failed to add pack.mcmeta in resources
+2026-10-25 20:10:16 [WARNING] [Minecraft-Client] Failed to add READ_ME_I_AM_VERY_IMPORTANT in resources
+2026-10-25 20:10:16 [INFO] [STDERR] java.io.FileNotFoundException: http://s3.amazonaws.com/MinecraftResources/
+2026-10-25 20:10:16 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1925)
+2026-10-25 20:10:16 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1520)
+2026-10-25 20:10:16 [INFO] [STDERR] 	at net.minecraft.util.ThreadDownloadResources.run(ThreadDownloadResources.java:57)
+2026-10-25 20:10:17 [INFO] [Minecraft-Server] Starting integrated minecraft server version 1.5.2
+2026-10-25 20:10:17 [INFO] [Minecraft-Server] Generating keypair
+2026-10-25 20:10:17 [FINEST] [mcp] Sending event FMLServerAboutToStartEvent to mod mcp
+2026-10-25 20:10:17 [FINEST] [mcp] Sent event FMLServerAboutToStartEvent to mod mcp
+2026-10-25 20:10:17 [FINEST] [FML] Sending event FMLServerAboutToStartEvent to mod FML
+2026-10-25 20:10:17 [FINEST] [FML] Sent event FMLServerAboutToStartEvent to mod FML
+2026-10-25 20:10:17 [FINEST] [Forge] Sending event FMLServerAboutToStartEvent to mod Forge
+2026-10-25 20:10:17 [FINEST] [Forge] Sent event FMLServerAboutToStartEvent to mod Forge
+2026-10-25 20:10:17 [FINEST] [VintageCore] Sending event FMLServerAboutToStartEvent to mod VintageCore
+2026-10-25 20:10:17 [FINEST] [VintageCore] Sent event FMLServerAboutToStartEvent to mod VintageCore
+2026-10-25 20:10:17 [FINEST] [SleepingBag] Sending event FMLServerAboutToStartEvent to mod SleepingBag
+2026-10-25 20:10:17 [FINEST] [SleepingBag] Sent event FMLServerAboutToStartEvent to mod SleepingBag
+2026-10-25 20:10:17 [FINE] [fml.ItemTracker] The difference set is not equal: only on right={31998=Item 31998, Type dev.vintage.sleepingbag.ItemDummy, owned by SleepingBag, ordinal 0, name dummy, claimedModId null}
+2026-10-25 20:10:17 [INFO] [ForgeModLoader] Loading dimension 0 (New World) (net.minecraft.server.integrated.IntegratedServer@778f111f)
+2026-10-25 20:10:17 [INFO] [ForgeModLoader] Loading dimension 1 (New World) (net.minecraft.server.integrated.IntegratedServer@778f111f)
+2026-10-25 20:10:17 [INFO] [ForgeModLoader] Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@778f111f)
+2026-10-25 20:10:17 [INFO] [Minecraft-Server] Preparing start region for level 0
+2026-10-25 20:10:18 [FINEST] [mcp] Sending event FMLServerStartingEvent to mod mcp
+2026-10-25 20:10:18 [FINEST] [mcp] Sent event FMLServerStartingEvent to mod mcp
+2026-10-25 20:10:18 [FINEST] [FML] Sending event FMLServerStartingEvent to mod FML
+2026-10-25 20:10:18 [FINEST] [FML] Sent event FMLServerStartingEvent to mod FML
+2026-10-25 20:10:18 [FINEST] [Forge] Sending event FMLServerStartingEvent to mod Forge
+2026-10-25 20:10:18 [FINEST] [Forge] Sent event FMLServerStartingEvent to mod Forge
+2026-10-25 20:10:18 [FINEST] [VintageCore] Sending event FMLServerStartingEvent to mod VintageCore
+2026-10-25 20:10:18 [FINEST] [VintageCore] Sent event FMLServerStartingEvent to mod VintageCore
+2026-10-25 20:10:18 [FINEST] [SleepingBag] Sending event FMLServerStartingEvent to mod SleepingBag
+2026-10-25 20:10:18 [FINEST] [SleepingBag] Sent event FMLServerStartingEvent to mod SleepingBag
+2026-10-25 20:10:18 [FINEST] [mcp] Sending event FMLServerStartedEvent to mod mcp
+2026-10-25 20:10:18 [FINEST] [mcp] Sent event FMLServerStartedEvent to mod mcp
+2026-10-25 20:10:18 [FINEST] [FML] Sending event FMLServerStartedEvent to mod FML
+2026-10-25 20:10:18 [FINEST] [FML] Sent event FMLServerStartedEvent to mod FML
+2026-10-25 20:10:18 [FINEST] [Forge] Sending event FMLServerStartedEvent to mod Forge
+2026-10-25 20:10:18 [FINEST] [Forge] Sent event FMLServerStartedEvent to mod Forge
+2026-10-25 20:10:18 [FINEST] [VintageCore] Sending event FMLServerStartedEvent to mod VintageCore
+2026-10-25 20:10:18 [FINEST] [VintageCore] Sent event FMLServerStartedEvent to mod VintageCore
+2026-10-25 20:10:18 [FINEST] [SleepingBag] Sending event FMLServerStartedEvent to mod SleepingBag
+2026-10-25 20:10:18 [FINEST] [SleepingBag] Sent event FMLServerStartedEvent to mod SleepingBag
+2026-10-25 20:10:18 [INFO] [STDOUT] loading single player
+2026-10-25 20:10:18 [INFO] [Minecraft-Server] quaternary[/127.0.0.1:0] logged in with entity id 98 at (-1514.7015720656275, 4.0, 351.4372660014675)
+2026-10-25 20:10:38 [INFO] [STDERR] Someone is closing me!
+2026-10-25 20:10:38 [INFO] [Minecraft-Server] Stopping server
+2026-10-25 20:10:38 [INFO] [Minecraft-Server] Saving players

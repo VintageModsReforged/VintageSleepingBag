@@ -1,0 +1,520 @@
+2025-02-25 14:35:14 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2025-02-25 14:35:14 [SERVER] [INFO] Generating keypair
+2025-02-25 14:35:14 [SERVER] [INFO] Converting map!
+2025-02-25 14:35:14 [SERVER] [INFO] Scanning folders...
+2025-02-25 14:35:14 [SERVER] [INFO] Total conversion count is 0
+2025-02-25 14:35:16 [SERVER] [INFO] Preparing start region for level 0
+2025-02-25 14:35:17 [SERVER] [INFO] quaternary[/127.0.0.1:0] logged in with entity id 0 at (-1543.5, 4.0, 320.5)
+2025-02-25 14:35:27 [SERVER] [SEVERE] Encountered an unexpected exception ReportedException
+net.minecraft.util.ReportedException: Ticking player
+	at net.minecraft.network.NetworkListenThread.networkTick(NetworkListenThread.java:60)
+	at net.minecraft.server.integrated.IntegratedServerListenThread.networkTick(IntegratedServerListenThread.java:109)
+	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:677)
+	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:573)
+	at net.minecraft.server.integrated.IntegratedServer.tick(IntegratedServer.java:127)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:470)
+	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:573)
+Caused by: java.lang.NullPointerException
+	at dev.vintage.sleepingbag.ItemSleepingBag.isNotSuffocating(ItemSleepingBag.java:161)
+	at dev.vintage.sleepingbag.ItemSleepingBag.canPlayerSleep(ItemSleepingBag.java:141)
+	at dev.vintage.sleepingbag.ItemSleepingBag.onArmorTickUpdate(ItemSleepingBag.java:96)
+	at net.minecraft.entity.player.InventoryPlayer.decrementAnimations(InventoryPlayer.java:348)
+	at net.minecraft.entity.player.EntityPlayer.onLivingUpdate(EntityPlayer.java:591)
+	at net.minecraft.entity.EntityLiving.onUpdate(EntityLiving.java:858)
+	at net.minecraft.entity.player.EntityPlayer.onUpdate(EntityPlayer.java:339)
+	at net.minecraft.entity.player.EntityPlayerMP.onUpdateEntity(EntityPlayerMP.java:326)
+	at net.minecraft.network.NetServerHandler.handleFlying(NetServerHandler.java:308)
+	at net.minecraft.network.packet.Packet10Flying.processPacket(Packet10Flying.java:136)
+	at net.minecraft.network.MemoryConnection.processReadPackets(MemoryConnection.java:89)
+	at net.minecraft.network.NetServerHandler.networkTick(NetServerHandler.java:134)
+	at net.minecraft.network.NetworkListenThread.networkTick(NetworkListenThread.java:53)
+	... 6 more
+2025-02-25 14:35:27 [SERVER] [SEVERE] This crash report has been saved to: D:\Games\Minecraft\Workspace\VintageModsReforged\SleepingBag - 1.5.2\run\crash-reports\crash-2025-02-25_14.35.27-server.txt
+2025-02-25 14:35:27 [SERVER] [INFO] Stopping server
+2025-02-25 14:35:27 [SERVER] [INFO] Saving players
+2025-02-25 14:35:27 [SERVER] [INFO] Saving worlds
+2025-02-25 14:35:27 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 14:35:27 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 14:35:27 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 14:36:27 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2025-02-25 14:36:27 [SERVER] [INFO] Generating keypair
+2025-02-25 14:36:27 [SERVER] [INFO] Preparing start region for level 0
+2025-02-25 14:36:27 [SERVER] [INFO] quaternary[/127.0.0.1:0] logged in with entity id 2 at (-1543.5, 4.0, 320.5)
+2025-02-25 14:36:42 [SERVER] [INFO] [quaternary: Set the time to 12500]
+2025-02-25 14:37:06 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 14:37:06 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 14:37:06 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 14:37:06 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 14:44:21 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 14:44:21 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 14:44:21 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 14:44:21 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 14:44:28 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 14:44:28 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 14:44:28 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 14:44:28 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 14:45:31 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 14:45:31 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 14:45:31 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 14:45:31 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 14:45:51 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2025-02-25 14:45:51 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 14:45:51 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 14:45:51 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 14:45:51 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 14:46:01 [SERVER] [INFO] Stopping server
+2025-02-25 14:46:01 [SERVER] [INFO] Saving players
+2025-02-25 14:46:01 [SERVER] [INFO] Saving worlds
+2025-02-25 14:46:01 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 14:46:01 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 14:46:01 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 14:47:08 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2025-02-25 14:47:08 [SERVER] [INFO] Generating keypair
+2025-02-25 14:47:08 [SERVER] [INFO] Preparing start region for level 0
+2025-02-25 14:47:09 [SERVER] [INFO] quaternary[/127.0.0.1:0] logged in with entity id 93 at (-1556.6212085247507, 4.0, 319.1358759197036)
+2025-02-25 14:47:15 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 14:47:15 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 14:47:15 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 14:47:15 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 14:48:18 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 14:48:18 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 14:48:18 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 14:48:18 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 14:49:27 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 14:49:27 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 14:49:27 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 14:49:27 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 14:50:00 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2025-02-25 14:50:12 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 14:50:12 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 14:50:12 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 14:50:12 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 14:50:17 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2025-02-25 14:50:20 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 14:50:20 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 14:50:20 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 14:50:20 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 14:50:55 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 14:50:55 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 14:50:55 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 14:50:55 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 14:51:03 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2025-02-25 14:51:03 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 14:51:03 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 14:51:03 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 14:51:03 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 14:51:09 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 14:51:09 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 14:51:09 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 14:51:09 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 14:51:15 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 14:51:15 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 14:51:15 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 14:51:15 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 14:51:23 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2025-02-25 14:52:37 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 14:52:37 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 14:52:37 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 14:52:37 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 14:52:52 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2025-02-25 14:53:00 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 14:53:00 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 14:53:00 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 14:53:00 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 14:53:13 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2025-02-25 14:53:13 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 14:53:13 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 14:53:13 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 14:53:13 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 14:53:32 [SERVER] [INFO] [quaternary: Set the time to 0]
+2025-02-25 14:53:42 [SERVER] [INFO] [quaternary: Set the time to 12500]
+2025-02-25 14:53:58 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 14:53:58 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 14:53:58 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 14:53:58 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 14:54:29 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 14:54:29 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 14:54:29 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 14:54:29 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 14:54:51 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 14:54:51 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 14:54:51 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 14:54:51 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 14:55:11 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 14:55:11 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 14:55:11 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 14:55:11 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 18:07:26 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2025-02-25 18:07:26 [SERVER] [INFO] Generating keypair
+2025-02-25 18:07:26 [SERVER] [INFO] Preparing start region for level 0
+2025-02-25 18:07:27 [SERVER] [INFO] quaternary[/127.0.0.1:0] logged in with entity id 93 at (-1549.562193924577, 4.0, 318.64219790617096)
+2025-02-25 18:07:37 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 18:07:37 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 18:07:37 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 18:07:37 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 18:10:10 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 18:10:10 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 18:10:10 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 18:10:10 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 18:10:12 [SERVER] [INFO] Stopping server
+2025-02-25 18:10:12 [SERVER] [INFO] Saving players
+2025-02-25 18:10:42 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2025-02-25 18:10:42 [SERVER] [INFO] Generating keypair
+2025-02-25 18:10:42 [SERVER] [INFO] Preparing start region for level 0
+2025-02-25 18:10:43 [SERVER] [INFO] quaternary[/127.0.0.1:0] logged in with entity id 93 at (-1554.1086831953887, 4.0, 319.35481607156953)
+2025-02-25 18:11:07 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 18:11:07 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 18:11:08 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 18:11:08 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 18:16:17 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 18:16:17 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 18:16:17 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 18:16:17 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 18:21:53 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2025-02-25 18:21:53 [SERVER] [INFO] Generating keypair
+2025-02-25 18:21:53 [SERVER] [INFO] Preparing start region for level 0
+2025-02-25 18:21:54 [SERVER] [INFO] quaternary[/127.0.0.1:0] logged in with entity id 94 at (-1556.5, 4.0, 318.8999938964844)
+2025-02-25 18:21:57 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 18:21:57 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 18:21:57 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 18:21:57 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 18:22:40 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 18:22:40 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 18:22:40 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 18:22:40 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 18:24:25 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 18:24:25 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 18:24:25 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 18:24:25 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 18:25:00 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 18:25:00 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 18:25:00 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 18:25:00 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 18:29:11 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 18:29:11 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 18:29:11 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 18:29:11 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 18:30:48 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 18:30:48 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 18:30:48 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 18:30:48 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 18:30:55 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 18:30:55 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 18:30:55 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 18:30:55 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 18:30:55 [SERVER] [INFO] Stopping server
+2025-02-25 18:30:55 [SERVER] [INFO] Saving players
+2025-02-25 18:30:55 [SERVER] [INFO] Saving worlds
+2025-02-25 18:30:55 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 18:30:55 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 18:30:55 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 18:31:12 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2025-02-25 18:31:12 [SERVER] [INFO] Generating keypair
+2025-02-25 18:31:12 [SERVER] [INFO] Preparing start region for level 0
+2025-02-25 18:31:13 [SERVER] [INFO] quaternary[/127.0.0.1:0] logged in with entity id 101 at (-1557.398363043681, 4.0, 331.3716106121574)
+2025-02-25 18:31:24 [SERVER] [INFO] [quaternary: Set the time to 0]
+2025-02-25 18:31:28 [SERVER] [INFO] [quaternary: Set the time to 12500]
+2025-02-25 18:31:44 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 18:31:44 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 18:31:44 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 18:31:44 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 18:33:41 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2025-02-25 18:33:41 [SERVER] [INFO] Generating keypair
+2025-02-25 18:33:41 [SERVER] [INFO] Preparing start region for level 0
+2025-02-25 18:33:42 [SERVER] [INFO] quaternary[/127.0.0.1:0] logged in with entity id 142 at (-1562.5, 4.0, 330.8999938964844)
+2025-02-25 18:34:19 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2025-02-25 18:34:19 [SERVER] [INFO] Generating keypair
+2025-02-25 18:34:19 [SERVER] [INFO] Preparing start region for level 0
+2025-02-25 18:34:20 [SERVER] [INFO] quaternary[/127.0.0.1:0] logged in with entity id 142 at (-1562.5, 4.0, 330.8999938964844)
+2025-02-25 18:34:23 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 18:34:23 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 18:34:23 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 18:34:23 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 18:42:36 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 18:42:36 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 18:42:36 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 18:42:36 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 18:43:52 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 18:43:52 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 18:43:52 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 18:43:52 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 18:43:54 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 18:43:54 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 18:43:54 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 18:43:54 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 18:43:54 [SERVER] [INFO] Stopping server
+2025-02-25 18:43:54 [SERVER] [INFO] Saving players
+2025-02-25 18:43:54 [SERVER] [INFO] Saving worlds
+2025-02-25 18:43:54 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 18:43:54 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 18:43:54 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 18:45:39 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2025-02-25 18:45:39 [SERVER] [INFO] Generating keypair
+2025-02-25 18:45:39 [SERVER] [INFO] Preparing start region for level 0
+2025-02-25 18:45:40 [SERVER] [INFO] quaternary[/127.0.0.1:0] logged in with entity id 142 at (-1562.5, 4.0, 330.8999938964844)
+2025-02-25 18:45:42 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 18:45:42 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 18:45:42 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 18:45:42 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 18:46:36 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2025-02-25 18:46:36 [SERVER] [INFO] Generating keypair
+2025-02-25 18:46:37 [SERVER] [INFO] Preparing start region for level 0
+2025-02-25 18:46:37 [SERVER] [INFO] quaternary[/127.0.0.1:0] logged in with entity id 142 at (-1562.5, 4.0, 330.8999938964844)
+2025-02-25 18:46:42 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 18:46:42 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 18:46:42 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 18:46:42 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 18:46:54 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 18:46:54 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 18:46:54 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 18:46:54 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 18:46:55 [SERVER] [INFO] Stopping server
+2025-02-25 18:46:55 [SERVER] [INFO] Saving players
+2025-02-25 18:46:55 [SERVER] [INFO] Saving worlds
+2025-02-25 18:46:55 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 18:46:55 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 18:46:55 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 18:47:14 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2025-02-25 18:47:14 [SERVER] [INFO] Generating keypair
+2025-02-25 18:47:14 [SERVER] [INFO] Preparing start region for level 0
+2025-02-25 18:47:15 [SERVER] [INFO] quaternary[/127.0.0.1:0] logged in with entity id 141 at (-1562.5, 4.0, 330.8999938964844)
+2025-02-25 18:47:18 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 18:47:18 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 18:47:18 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 18:47:18 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-02-25 18:47:43 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2025-02-25 18:47:43 [SERVER] [INFO] Generating keypair
+2025-02-25 18:47:43 [SERVER] [INFO] Preparing start region for level 0
+2025-02-25 18:47:44 [SERVER] [INFO] quaternary[/127.0.0.1:0] logged in with entity id 141 at (-1562.5, 4.0, 330.8999938964844)
+2025-02-25 18:47:49 [SERVER] [INFO] Saving and pausing game...
+2025-02-25 18:47:49 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-02-25 18:47:49 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-02-25 18:47:49 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-05-30 16:10:28 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2025-05-30 16:10:28 [SERVER] [INFO] Generating keypair
+2025-05-30 16:10:28 [SERVER] [INFO] Preparing start region for level 0
+2025-05-30 16:10:29 [SERVER] [INFO] quaternary[/127.0.0.1:0] logged in with entity id 141 at (-1562.5, 4.0, 330.8999938964844)
+2025-05-30 16:22:13 [SERVER] [INFO] Saving and pausing game...
+2025-05-30 16:22:13 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-05-30 16:22:13 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-05-30 16:22:13 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-05-30 16:30:30 [SERVER] [INFO] [quaternary: Set the time to 12500]
+2025-05-30 16:31:34 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2025-05-30 16:31:34 [SERVER] [INFO] Saving and pausing game...
+2025-05-30 16:31:34 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-05-30 16:31:34 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-05-30 16:31:34 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-05-30 16:31:43 [SERVER] [INFO] Saving and pausing game...
+2025-05-30 16:31:43 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-05-30 16:31:43 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-05-30 16:31:43 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-05-30 16:31:55 [SERVER] [INFO] Saving and pausing game...
+2025-05-30 16:31:55 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-05-30 16:31:55 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-05-30 16:31:55 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-05-30 16:33:01 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2025-05-30 16:33:01 [SERVER] [INFO] Generating keypair
+2025-05-30 16:33:01 [SERVER] [INFO] Preparing start region for level 0
+2025-05-30 16:33:02 [SERVER] [INFO] quaternary[/127.0.0.1:0] logged in with entity id 50 at (-1558.686049188467, 4.0, 330.64862384551395)
+2025-05-30 16:33:05 [SERVER] [INFO] Saving and pausing game...
+2025-05-30 16:33:05 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-05-30 16:33:05 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-05-30 16:33:05 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-05-30 16:33:12 [SERVER] [INFO] Saving and pausing game...
+2025-05-30 16:33:12 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-05-30 16:33:12 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-05-30 16:33:12 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-05-30 16:33:39 [SERVER] [INFO] <quaternary> waa
+2025-05-30 16:36:24 [SERVER] [INFO] Stopping server
+2025-05-30 16:36:24 [SERVER] [INFO] Saving players
+2025-05-30 16:41:40 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2025-05-30 16:41:40 [SERVER] [INFO] Generating keypair
+2025-05-30 16:41:40 [SERVER] [INFO] Preparing start region for level 0
+2025-05-30 16:41:41 [SERVER] [INFO] quaternary[/127.0.0.1:0] logged in with entity id 95 at (-1561.5, 4.0, 329.8999938964844)
+2025-05-30 16:41:51 [SERVER] [INFO] Saving and pausing game...
+2025-05-30 16:41:51 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-05-30 16:41:51 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-05-30 16:41:51 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-05-30 16:41:55 [SERVER] [INFO] Saving and pausing game...
+2025-05-30 16:41:55 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-05-30 16:41:55 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-05-30 16:41:55 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-05-30 16:41:58 [SERVER] [INFO] Saving and pausing game...
+2025-05-30 16:41:58 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-05-30 16:41:58 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-05-30 16:41:58 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-05-30 16:41:59 [SERVER] [INFO] Saving and pausing game...
+2025-05-30 16:41:59 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-05-30 16:41:59 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-05-30 16:41:59 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-05-30 16:42:00 [SERVER] [INFO] Saving and pausing game...
+2025-05-30 16:42:00 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-05-30 16:42:00 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-05-30 16:42:00 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-05-30 16:42:06 [SERVER] [INFO] Saving and pausing game...
+2025-05-30 16:42:06 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-05-30 16:42:06 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-05-30 16:42:06 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-05-30 16:45:10 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2025-05-30 16:45:10 [SERVER] [INFO] Generating keypair
+2025-05-30 16:45:10 [SERVER] [INFO] Preparing start region for level 0
+2025-05-30 16:45:10 [SERVER] [INFO] quaternary[/127.0.0.1:0] logged in with entity id 94 at (-1561.5, 4.0, 329.8999938964844)
+2025-05-30 16:50:07 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2025-05-30 16:50:07 [SERVER] [INFO] Generating keypair
+2025-05-30 16:50:07 [SERVER] [INFO] Preparing start region for level 0
+2025-05-30 16:50:08 [SERVER] [INFO] quaternary[/127.0.0.1:0] logged in with entity id 83 at (-1563.4328418493403, 4.0, 331.1921424329763)
+2025-05-30 16:50:14 [SERVER] [INFO] Saving and pausing game...
+2025-05-30 16:50:14 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-05-30 16:50:14 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-05-30 16:50:14 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-05-30 16:50:22 [SERVER] [INFO] Saving and pausing game...
+2025-05-30 16:50:22 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-05-30 16:50:22 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-05-30 16:50:22 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-05-30 16:51:33 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2025-05-30 16:51:33 [SERVER] [INFO] Generating keypair
+2025-05-30 16:51:33 [SERVER] [INFO] Preparing start region for level 0
+2025-05-30 16:51:34 [SERVER] [INFO] quaternary[/127.0.0.1:0] logged in with entity id 81 at (-1557.71105563437, 4.0, 329.79356058815375)
+2025-05-30 16:51:37 [SERVER] [INFO] Saving and pausing game...
+2025-05-30 16:51:37 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-05-30 16:51:37 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-05-30 16:51:37 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-05-30 16:51:53 [SERVER] [INFO] [quaternary: Set the time to 12500]
+2025-05-30 16:52:48 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2025-05-30 16:52:48 [SERVER] [INFO] Generating keypair
+2025-05-30 16:52:48 [SERVER] [INFO] Preparing start region for level 0
+2025-05-30 16:52:49 [SERVER] [INFO] quaternary[/127.0.0.1:0] logged in with entity id 81 at (-1557.71105563437, 4.0, 329.79356058815375)
+2025-05-30 16:53:03 [SERVER] [INFO] [quaternary: Set the time to 12500]
+2025-05-30 16:53:20 [SERVER] [INFO] Saving and pausing game...
+2025-05-30 16:53:20 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-05-30 16:53:20 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-05-30 16:53:20 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-05-30 16:54:34 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2025-05-30 16:54:34 [SERVER] [INFO] Generating keypair
+2025-05-30 16:54:35 [SERVER] [INFO] Preparing start region for level 0
+2025-05-30 16:54:35 [SERVER] [SEVERE] Encountered an unexpected exception ArrayIndexOutOfBoundsException
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at dev.vintage.sleepingbag.player.PlayerTickHandler.tickEnd(PlayerTickHandler.java:23)
+	at cpw.mods.fml.common.SingleIntervalHandler.tickEnd(SingleIntervalHandler.java:34)
+	at cpw.mods.fml.common.FMLCommonHandler.tickEnd(FMLCommonHandler.java:141)
+	at cpw.mods.fml.common.FMLCommonHandler.onPostServerTick(FMLCommonHandler.java:274)
+	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:608)
+	at net.minecraft.server.integrated.IntegratedServer.tick(IntegratedServer.java:127)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:470)
+	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:573)
+2025-05-30 16:54:35 [SERVER] [SEVERE] This crash report has been saved to: D:\Games\Minecraft\Workspace\VintageModsReforged\SleepingBag - 1.5.2\run\crash-reports\crash-2025-05-30_16.54.35-server.txt
+2025-05-30 16:54:35 [SERVER] [INFO] Stopping server
+2025-05-30 16:54:35 [SERVER] [INFO] Saving players
+2025-05-30 16:54:35 [SERVER] [INFO] Saving worlds
+2025-05-30 16:54:35 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-05-30 16:54:35 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-05-30 16:54:35 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-05-30 16:56:52 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2025-05-30 16:56:52 [SERVER] [INFO] Generating keypair
+2025-05-30 16:56:53 [SERVER] [INFO] Preparing start region for level 0
+2025-05-30 16:56:53 [SERVER] [INFO] quaternary[/127.0.0.1:0] logged in with entity id 72 at (-1545.6675538353938, 4.0, 349.07293682256346)
+2025-05-30 16:57:29 [SERVER] [INFO] Saving and pausing game...
+2025-05-30 16:57:29 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-05-30 16:57:29 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-05-30 16:57:29 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-05-30 16:57:34 [SERVER] [INFO] Saving and pausing game...
+2025-05-30 16:57:34 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-05-30 16:57:34 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-05-30 16:57:34 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-05-30 16:57:35 [SERVER] [INFO] Saving and pausing game...
+2025-05-30 16:57:35 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-05-30 16:57:35 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-05-30 16:57:35 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-05-30 16:57:37 [SERVER] [INFO] Saving and pausing game...
+2025-05-30 16:57:37 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-05-30 16:57:37 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-05-30 16:57:37 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-05-30 16:57:38 [SERVER] [INFO] Stopping server
+2025-05-30 16:57:38 [SERVER] [INFO] Saving players
+2025-05-30 16:57:38 [SERVER] [INFO] Saving worlds
+2025-05-30 16:57:38 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-05-30 16:57:38 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-05-30 16:57:38 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2026-10-25 19:09:44 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2026-10-25 19:09:44 [SERVER] [INFO] Generating keypair
+2026-10-25 19:09:45 [SERVER] [INFO] Preparing start region for level 0
+2026-10-25 19:09:45 [SERVER] [INFO] quaternary[/127.0.0.1:0] logged in with entity id 96 at (-1543.7765421329136, 4.0, 349.04194615679523)
+2026-10-25 19:09:47 [SERVER] [SEVERE] Encountered an unexpected exception ReportedException
+net.minecraft.util.ReportedException: Ticking memory connection
+	at net.minecraft.network.NetworkListenThread.networkTick(NetworkListenThread.java:60)
+	at net.minecraft.server.integrated.IntegratedServerListenThread.networkTick(IntegratedServerListenThread.java:109)
+	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:677)
+	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:573)
+	at net.minecraft.server.integrated.IntegratedServer.tick(IntegratedServer.java:127)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:470)
+	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:573)
+Caused by: java.lang.NullPointerException
+	at net.minecraft.item.ItemInWorldManager.tryUseItem(ItemInWorldManager.java:361)
+	at net.minecraft.network.NetServerHandler.handlePlace(NetServerHandler.java:539)
+	at net.minecraft.network.packet.Packet15Place.processPacket(Packet15Place.java:58)
+	at net.minecraft.network.MemoryConnection.processReadPackets(MemoryConnection.java:89)
+	at net.minecraft.network.NetServerHandler.networkTick(NetServerHandler.java:134)
+	at net.minecraft.network.NetworkListenThread.networkTick(NetworkListenThread.java:53)
+	... 6 more
+2026-10-25 19:09:47 [SERVER] [SEVERE] This crash report has been saved to: D:\Games\Minecraft\Workspace\VintageModsReforged\SleepingBag - 1.5.2\run\crash-reports\crash-2026-10-25_19.09.47-server.txt
+2026-10-25 19:09:47 [SERVER] [INFO] Stopping server
+2026-10-25 19:09:47 [SERVER] [INFO] Saving players
+2026-10-25 19:09:47 [SERVER] [INFO] Saving worlds
+2026-10-25 19:09:47 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2026-10-25 19:09:47 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2026-10-25 19:09:47 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2026-10-25 19:11:55 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2026-10-25 19:11:55 [SERVER] [INFO] Generating keypair
+2026-10-25 19:11:56 [SERVER] [INFO] Preparing start region for level 0
+2026-10-25 19:11:56 [SERVER] [INFO] quaternary[/127.0.0.1:0] logged in with entity id 113 at (-1543.7765421329136, 4.0, 349.04194615679523)
+2026-10-25 19:12:11 [SERVER] [INFO] Saving and pausing game...
+2026-10-25 19:12:11 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2026-10-25 19:12:11 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2026-10-25 19:12:11 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2026-10-25 19:39:23 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2026-10-25 19:39:23 [SERVER] [INFO] Generating keypair
+2026-10-25 19:39:23 [SERVER] [INFO] Preparing start region for level 0
+2026-10-25 19:39:24 [SERVER] [INFO] quaternary[/127.0.0.1:0] logged in with entity id 113 at (-1540.8224721652352, 4.0, 354.0329758022681)
+2026-10-25 19:42:30 [SERVER] [INFO] [quaternary: Set the time to 12500]
+2026-10-25 19:44:39 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2026-10-25 19:44:39 [SERVER] [INFO] Generating keypair
+2026-10-25 19:44:39 [SERVER] [INFO] Preparing start region for level 0
+2026-10-25 19:44:39 [SERVER] [INFO] quaternary[/127.0.0.1:0] logged in with entity id 56 at (-1538.2162527663374, 4.0, 354.89181658247674)
+2026-10-25 19:58:08 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2026-10-25 19:58:08 [SERVER] [INFO] Generating keypair
+2026-10-25 19:58:10 [SERVER] [INFO] Preparing start region for level 0
+2026-10-25 19:58:11 [SERVER] [INFO] quaternary[/127.0.0.1:0] logged in with entity id 117 at (-1541.1252486953297, 4.0, 355.7530493730881)
+2026-10-25 19:58:26 [SERVER] [INFO] Saving and pausing game...
+2026-10-25 19:58:26 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2026-10-25 19:58:26 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2026-10-25 19:58:26 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2026-10-25 19:59:42 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2026-10-25 19:59:42 [SERVER] [INFO] Generating keypair
+2026-10-25 19:59:42 [SERVER] [INFO] Preparing start region for level 0
+2026-10-25 19:59:42 [SERVER] [INFO] quaternary[/127.0.0.1:0] logged in with entity id 117 at (-1541.1252486953297, 4.0, 355.7530493730881)
+2026-10-25 20:01:19 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2026-10-25 20:01:19 [SERVER] [INFO] Generating keypair
+2026-10-25 20:01:19 [SERVER] [INFO] Preparing start region for level 0
+2026-10-25 20:01:20 [SERVER] [INFO] quaternary[/127.0.0.1:0] logged in with entity id 112 at (-1541.1252486953297, 4.0, 355.7530493730881)
+2026-10-25 20:03:53 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2026-10-25 20:03:53 [SERVER] [INFO] Generating keypair
+2026-10-25 20:03:53 [SERVER] [INFO] Preparing start region for level 0
+2026-10-25 20:03:53 [SERVER] [INFO] quaternary[/127.0.0.1:0] logged in with entity id 109 at (-1541.1252486953297, 4.0, 355.7530493730881)
+2026-10-25 20:04:12 [SERVER] [INFO] Saving and pausing game...
+2026-10-25 20:04:12 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2026-10-25 20:04:12 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2026-10-25 20:04:12 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2026-10-25 20:09:34 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2026-10-25 20:09:34 [SERVER] [INFO] Generating keypair
+2026-10-25 20:09:35 [SERVER] [INFO] Preparing start region for level 0
+2026-10-25 20:09:35 [SERVER] [INFO] quaternary[/127.0.0.1:0] logged in with entity id 99 at (-1514.7015720656275, 4.0, 351.4372660014675)
+2026-10-25 20:09:39 [SERVER] [INFO] Saving and pausing game...
+2026-10-25 20:09:39 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2026-10-25 20:09:39 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2026-10-25 20:09:39 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2026-10-25 20:09:40 [SERVER] [INFO] Stopping server
+2026-10-25 20:10:17 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2026-10-25 20:10:17 [SERVER] [INFO] Generating keypair
+2026-10-25 20:10:17 [SERVER] [INFO] Preparing start region for level 0
+2026-10-25 20:10:18 [SERVER] [INFO] quaternary[/127.0.0.1:0] logged in with entity id 98 at (-1514.7015720656275, 4.0, 351.4372660014675)
+2026-10-25 20:10:38 [SERVER] [INFO] Stopping server

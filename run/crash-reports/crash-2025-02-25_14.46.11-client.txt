@@ -1,0 +1,99 @@
+---- Minecraft Crash Report ----
+// Hey, that tickles! Hehehe!
+
+Time: 2/25/25 2:46 PM
+Description: Ticking entity
+
+java.lang.NullPointerException
+	at dev.vintage.sleepingbag.ItemSleepingBag.isSolidEnough(ItemSleepingBag.java:166)
+	at dev.vintage.sleepingbag.ItemSleepingBag.canPlayerSleep(ItemSleepingBag.java:141)
+	at dev.vintage.sleepingbag.ItemSleepingBag.onArmorTickUpdate(ItemSleepingBag.java:96)
+	at net.minecraft.entity.player.InventoryPlayer.decrementAnimations(InventoryPlayer.java:348)
+	at net.minecraft.entity.player.EntityPlayer.onLivingUpdate(EntityPlayer.java:591)
+	at net.minecraft.client.entity.EntityPlayerSP.onLivingUpdate(EntityPlayerSP.java:283)
+	at net.minecraft.entity.EntityLiving.onUpdate(EntityLiving.java:858)
+	at net.minecraft.entity.player.EntityPlayer.onUpdate(EntityPlayer.java:339)
+	at net.minecraft.client.entity.EntityClientPlayerMP.onUpdate(EntityClientPlayerMP.java:45)
+	at net.minecraft.world.World.updateEntityWithOptionalForce(World.java:2342)
+	at net.minecraft.world.World.updateEntity(World.java:2304)
+	at net.minecraft.world.World.updateEntities(World.java:2150)
+	at net.minecraft.client.Minecraft.runTick(Minecraft.java:1853)
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:835)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:760)
+	at java.lang.Thread.run(Thread.java:750)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Stacktrace:
+	at dev.vintage.sleepingbag.ItemSleepingBag.isSolidEnough(ItemSleepingBag.java:166)
+	at dev.vintage.sleepingbag.ItemSleepingBag.canPlayerSleep(ItemSleepingBag.java:141)
+	at dev.vintage.sleepingbag.ItemSleepingBag.onArmorTickUpdate(ItemSleepingBag.java:96)
+	at net.minecraft.entity.player.InventoryPlayer.decrementAnimations(InventoryPlayer.java:348)
+	at net.minecraft.entity.player.EntityPlayer.onLivingUpdate(EntityPlayer.java:591)
+	at net.minecraft.client.entity.EntityPlayerSP.onLivingUpdate(EntityPlayerSP.java:283)
+	at net.minecraft.entity.EntityLiving.onUpdate(EntityLiving.java:858)
+	at net.minecraft.entity.player.EntityPlayer.onUpdate(EntityPlayer.java:339)
+	at net.minecraft.client.entity.EntityClientPlayerMP.onUpdate(EntityClientPlayerMP.java:45)
+	at net.minecraft.world.World.updateEntityWithOptionalForce(World.java:2342)
+	at net.minecraft.world.World.updateEntity(World.java:2304)
+
+-- Entity being ticked --
+Details:
+	Entity Type: null (net.minecraft.client.entity.EntityClientPlayerMP)
+	Entity ID: 2
+	Entity Name: quaternary
+	Entity's Exact location: -1556.62, 5.62, 319.14
+	Entity's Block location: World: (-1557,5,319), Chunk: (at 11,0,15 in -98,19; contains blocks -1568,0,304 to -1553,255,319), Region: (-4,0; contains chunks -128,0 to -97,31, blocks -2048,0,0 to -1537,255,511)
+	Entity's Momentum: 0.00, -0.08, 0.00
+Stacktrace:
+	at net.minecraft.world.World.updateEntities(World.java:2150)
+
+-- Affected level --
+Details:
+	Level name: MpServer
+	All players: 1 total; [EntityClientPlayerMP['quaternary'/2, l='MpServer', x=-1556.62, y=5.62, z=319.14]]
+	Chunk stats: MultiplayerChunkCache: 441
+	Level seed: 0
+	Level generator: ID 01 - flat, ver 0. Features enabled: false
+	Level generator options: 
+	Level spawn location: World: (-1553,4,314), Chunk: (at 15,0,10 in -98,19; contains blocks -1568,0,304 to -1553,255,319), Region: (-4,0; contains chunks -128,0 to -97,31, blocks -2048,0,0 to -1537,255,511)
+	Level time: 1387 game time, 13395 day time
+	Level dimension: 0
+	Level storage version: 0x00000 - Unknown?
+	Level weather: Rain time: 0 (now: false), thunder time: 0 (now: false)
+	Level game mode: Game mode: creative (ID 1). Hardcore: false. Cheats: false
+	Forced entities: 46 total; [EntitySlime['Slime'/0, l='MpServer', x=-1541.97, y=4.00, z=342.06], EntityPig['Pig'/12672, l='MpServer', x=-1605.03, y=4.00, z=281.09], EntityPig['Pig'/12673, l='MpServer', x=-1598.22, y=4.00, z=275.50], EntitySpider['Spider'/20929, l='MpServer', x=-1539.09, y=4.00, z=287.38], EntitySheep['Sheep'/12674, l='MpServer', x=-1536.03, y=4.00, z=354.97], EntitySkeleton['Skeleton'/23746, l='MpServer', x=-1634.50, y=4.00, z=336.50], EntitySheep['Sheep'/12675, l='MpServer', x=-1537.28, y=4.00, z=349.38], EntitySheep['Sheep'/12676, l='MpServer', x=-1536.35, y=4.00, z=352.80], EntitySheep['Sheep'/12677, l='MpServer', x=-1550.75, y=4.00, z=344.69], EntitySkeleton['Skeleton'/21446, l='MpServer', x=-1541.50, y=4.00, z=261.50], EntityZombie['Zombie'/22022, l='MpServer', x=-1635.50, y=4.00, z=243.50], EntitySpider['Spider'/21006, l='MpServer', x=-1575.16, y=4.00, z=282.50], EntityZombie['Zombie'/21968, l='MpServer', x=-1538.50, y=4.00, z=389.50], EntityZombie['Zombie'/21905, l='MpServer', x=-1503.50, y=4.00, z=274.50], EntityZombie['Zombie'/20692, l='MpServer', x=-1583.50, y=4.00, z=301.50], EntityZombie['Zombie'/22485, l='MpServer', x=-1485.50, y=4.00, z=349.50], EntitySlime['Slime'/2454, l='MpServer', x=-1630.75, y=4.33, z=359.92], EntityZombie['Zombie'/20694, l='MpServer', x=-1582.61, y=4.00, z=304.58], EntityZombie['Zombie'/21847, l='MpServer', x=-1593.50, y=4.00, z=319.50], EntitySkeleton['Skeleton'/21911, l='MpServer', x=-1493.50, y=4.00, z=277.50], EntityZombie['Zombie'/20696, l='MpServer', x=-1588.50, y=4.00, z=292.50], EntitySlime['Slime'/2457, l='MpServer', x=-1608.03, y=4.47, z=351.26], EntityCreeper['Creeper'/21977, l='MpServer', x=-1539.50, y=4.00, z=385.50], EntityClientPlayerMP['quaternary'/2, l='MpServer', x=-1556.62, y=5.62, z=319.14], EntitySkeleton['Skeleton'/23652, l='MpServer', x=-1518.50, y=4.00, z=291.50], EntitySpider['Spider'/22437, l='MpServer', x=-1487.52, y=4.00, z=256.89], EntitySkeleton['Skeleton'/23654, l='MpServer', x=-1519.50, y=4.00, z=282.50], EntityZombie['Zombie'/21416, l='MpServer', x=-1587.50, y=4.00, z=308.50], EntitySpider['Spider'/23465, l='MpServer', x=-1495.67, y=4.00, z=264.66], EntitySpider['Spider'/21163, l='MpServer', x=-1481.63, y=4.00, z=276.22], EntityCreeper['Creeper'/20589, l='MpServer', x=-1622.50, y=4.00, z=370.50], EntitySpider['Spider'/23214, l='MpServer', x=-1480.47, y=4.00, z=386.08], EntitySkeleton['Skeleton'/21106, l='MpServer', x=-1633.16, y=4.00, z=271.56], EntityCreeper['Creeper'/21811, l='MpServer', x=-1482.50, y=4.00, z=369.50], EntitySpider['Spider'/20596, l='MpServer', x=-1567.50, y=4.00, z=364.50], EntityCreeper['Creeper'/21941, l='MpServer', x=-1615.50, y=4.00, z=350.50], EntitySpider['Spider'/22261, l='MpServer', x=-1540.50, y=4.00, z=366.50], EntitySkeleton['Skeleton'/22520, l='MpServer', x=-1533.50, y=4.00, z=349.50], EntityCreeper['Creeper'/23032, l='MpServer', x=-1494.50, y=4.00, z=358.50], EntityZombie['Zombie'/21113, l='MpServer', x=-1631.69, y=4.00, z=275.16], EntityZombie['Zombie'/22265, l='MpServer', x=-1534.50, y=4.00, z=364.50], EntitySkeleton['Skeleton'/20539, l='MpServer', x=-1535.50, y=4.00, z=378.50], EntityPig['Pig'/12670, l='MpServer', x=-1599.75, y=4.00, z=266.09], EntitySpider['Spider'/23358, l='MpServer', x=-1506.50, y=4.00, z=281.50], EntityPig['Pig'/12671, l='MpServer', x=-1603.19, y=4.00, z=276.66], EntitySpider['Spider'/20543, l='MpServer', x=-1535.00, y=4.00, z=386.78]]
+	Retry entities: 0 total; []
+Stacktrace:
+	at net.minecraft.client.multiplayer.WorldClient.addWorldInfoToCrashReport(WorldClient.java:441)
+	at net.minecraft.client.Minecraft.addGraphicsAndWorldToCrashReport(Minecraft.java:2414)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:776)
+	at java.lang.Thread.run(Thread.java:750)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.5.2
+	Operating System: Windows 11 (amd64) version 10.0
+	Java Version: 1.8.0_442, Temurin
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Temurin
+	Memory: 205392440 bytes (195 MB) / 662700032 bytes (632 MB) up to 7615283200 bytes (7262 MB)
+	JVM Flags: 0 total; 
+	AABB Pool Size: 5 (280 bytes; 0 MB) allocated, 5 (280 bytes; 0 MB) used
+	Suspicious classes: FML and Forge are installed
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP v7.51 FML v5.2.23.738 Minecraft Forge 7.8.1.738 5 mods loaded, 5 mods active
+	mcp{7.51} [Minecraft Coder Pack] (minecraft.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	FML{5.2.23.738} [Forge Mod Loader] (coremods) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	Forge{7.8.1.738} [Minecraft Forge] (coremods) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	VintageCore{1.5.2-1.0.3.2} [Vintage Core] (VintageCore-1.5.2-1.0.3.2-dev.jar-mapped-net.minecraftforge_forge_1.5.2-7.8.1.738.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	SleepingBag{1.5.2-1.0.0} [Sleeping Bag] (SleepingBag-1.5.2-1.0.0-dev.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	LWJGL: 2.9.0
+	OpenGL: NVIDIA GeForce RTX 3060/PCIe/SSE2 GL version 4.6.0 NVIDIA 572.42, NVIDIA Corporation
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
+	Type: Client (map_client.txt)
+	Texture Pack: Default
+	Profiler Position: N/A (disabled)
+	Vec3 Pool Size: 43 (2408 bytes; 0 MB) allocated, 13 (728 bytes; 0 MB) used

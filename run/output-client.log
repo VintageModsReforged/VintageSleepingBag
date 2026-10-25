@@ -1,0 +1,1636 @@
+2025-02-25 14:34:49 [CLIENT] [INFO] Setting user: quaternary
+2025-02-25 14:34:49 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2025-02-25 14:34:51 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-02-25 14:34:51 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-02-25 14:34:51 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-02-25 14:34:51 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-02-25 14:34:51 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-02-25 14:34:51 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-02-25 14:34:51 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-02-25 14:34:51 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-02-25 14:34:51 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-02-25 14:34:51 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-02-25 14:34:51 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-02-25 14:34:51 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-02-25 14:34:51 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-02-25 14:34:51 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-02-25 14:34:51 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-02-25 14:34:51 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-02-25 14:34:51 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-02-25 14:34:51 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-02-25 14:34:51 [CLIENT] [WARNING] Failed to add pack.mcmeta in resources
+2025-02-25 14:34:51 [CLIENT] [WARNING] Failed to add READ_ME_I_AM_VERY_IMPORTANT in resources
+2025-02-25 14:35:03 [CLIENT] [INFO] Setting user: quaternary
+2025-02-25 14:35:03 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2025-02-25 14:35:05 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-02-25 14:35:05 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-02-25 14:35:05 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-02-25 14:35:05 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-02-25 14:35:05 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-02-25 14:35:05 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-02-25 14:35:05 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-02-25 14:35:05 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-02-25 14:35:05 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-02-25 14:35:05 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-02-25 14:35:05 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-02-25 14:35:05 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-02-25 14:35:05 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-02-25 14:35:05 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-02-25 14:35:05 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-02-25 14:35:05 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-02-25 14:35:05 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-02-25 14:35:05 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-02-25 14:35:05 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-02-25 14:35:05 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-02-25 14:35:05 [CLIENT] [WARNING] Failed to add pack.mcmeta in resources
+2025-02-25 14:35:05 [CLIENT] [WARNING] Failed to add READ_ME_I_AM_VERY_IMPORTANT in resources
+2025-02-25 14:35:37 [CLIENT] [INFO] Stopping!
+2025-02-25 14:36:23 [CLIENT] [INFO] Setting user: quaternary
+2025-02-25 14:36:23 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2025-02-25 14:36:25 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-02-25 14:36:25 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-02-25 14:36:25 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-02-25 14:36:25 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-02-25 14:36:25 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-02-25 14:36:25 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-02-25 14:36:25 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-02-25 14:36:25 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-02-25 14:36:25 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-02-25 14:36:25 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-02-25 14:36:25 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-02-25 14:36:25 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-02-25 14:36:25 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-02-25 14:36:25 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-02-25 14:36:25 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-02-25 14:36:25 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-02-25 14:36:25 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-02-25 14:36:25 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-02-25 14:36:25 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-02-25 14:36:25 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-02-25 14:36:25 [CLIENT] [WARNING] Failed to add pack.mcmeta in resources
+2025-02-25 14:36:25 [CLIENT] [WARNING] Failed to add READ_ME_I_AM_VERY_IMPORTANT in resources
+2025-02-25 14:36:28 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:36:30 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:36:35 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:36:42 [CLIENT] [INFO] [CHAT] Set the time to 12500
+2025-02-25 14:36:43 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:46:11 [CLIENT] [INFO] Stopping!
+2025-02-25 14:47:05 [CLIENT] [INFO] Setting user: quaternary
+2025-02-25 14:47:05 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2025-02-25 14:47:06 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-02-25 14:47:06 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-02-25 14:47:06 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-02-25 14:47:06 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-02-25 14:47:06 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-02-25 14:47:06 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-02-25 14:47:06 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-02-25 14:47:06 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-02-25 14:47:06 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-02-25 14:47:06 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-02-25 14:47:06 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-02-25 14:47:06 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-02-25 14:47:06 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-02-25 14:47:06 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-02-25 14:47:06 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-02-25 14:47:06 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-02-25 14:47:06 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-02-25 14:47:06 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-02-25 14:47:06 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-02-25 14:47:06 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-02-25 14:47:07 [CLIENT] [WARNING] Failed to add pack.mcmeta in resources
+2025-02-25 14:47:07 [CLIENT] [WARNING] Failed to add READ_ME_I_AM_VERY_IMPORTANT in resources
+2025-02-25 14:47:11 [CLIENT] [INFO] [CHAT] sleepingbag.no_ground§r
+2025-02-25 14:47:14 [CLIENT] [INFO] [CHAT] sleepingbag.no_ground§r
+2025-02-25 14:47:53 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:47:55 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:48:00 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:48:09 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:48:10 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:49:24 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:49:25 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:49:26 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:50:12 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:50:20 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:50:55 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:51:03 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:51:09 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:52:37 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:53:00 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:53:13 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:53:33 [CLIENT] [INFO] [CHAT] Set the time to 0
+2025-02-25 14:53:35 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:53:35 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:53:35 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:53:36 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:53:36 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:53:36 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:53:42 [CLIENT] [INFO] [CHAT] Set the time to 12500
+2025-02-25 14:53:48 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:53:51 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:53:52 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:53:52 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:53:53 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:53:53 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:53:54 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:53:54 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:54:24 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:54:26 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:54:27 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:54:28 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:54:42 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:54:42 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:54:44 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:54:44 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:54:44 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:54:44 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:54:45 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:54:46 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:54:47 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:54:59 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:55:00 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:55:01 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:55:03 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:55:05 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:55:06 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:55:06 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 14:55:06 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:07:23 [CLIENT] [INFO] Setting user: quaternary
+2025-02-25 18:07:23 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2025-02-25 18:07:24 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-02-25 18:07:24 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-02-25 18:07:24 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-02-25 18:07:24 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-02-25 18:07:24 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-02-25 18:07:24 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-02-25 18:07:24 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-02-25 18:07:24 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-02-25 18:07:24 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-02-25 18:07:24 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-02-25 18:07:24 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-02-25 18:07:24 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-02-25 18:07:24 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-02-25 18:07:24 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-02-25 18:07:24 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-02-25 18:07:24 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-02-25 18:07:24 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-02-25 18:07:24 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-02-25 18:07:25 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-02-25 18:07:25 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-02-25 18:07:25 [CLIENT] [WARNING] Failed to add pack.mcmeta in resources
+2025-02-25 18:07:25 [CLIENT] [WARNING] Failed to add READ_ME_I_AM_VERY_IMPORTANT in resources
+2025-02-25 18:07:34 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:07:36 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:09:59 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:10:28 [CLIENT] [INFO] Setting user: quaternary
+2025-02-25 18:10:28 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2025-02-25 18:10:30 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-02-25 18:10:30 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-02-25 18:10:30 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-02-25 18:10:30 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-02-25 18:10:30 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-02-25 18:10:30 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-02-25 18:10:30 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-02-25 18:10:30 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-02-25 18:10:30 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-02-25 18:10:30 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-02-25 18:10:30 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-02-25 18:10:30 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-02-25 18:10:30 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-02-25 18:10:30 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-02-25 18:10:30 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-02-25 18:10:30 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-02-25 18:10:30 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-02-25 18:10:30 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-02-25 18:10:30 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-02-25 18:10:30 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-02-25 18:10:30 [CLIENT] [WARNING] Failed to add pack.mcmeta in resources
+2025-02-25 18:10:30 [CLIENT] [WARNING] Failed to add READ_ME_I_AM_VERY_IMPORTANT in resources
+2025-02-25 18:21:46 [CLIENT] [INFO] Setting user: quaternary
+2025-02-25 18:21:46 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2025-02-25 18:21:48 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-02-25 18:21:48 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-02-25 18:21:48 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-02-25 18:21:48 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-02-25 18:21:48 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-02-25 18:21:48 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-02-25 18:21:48 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-02-25 18:21:48 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-02-25 18:21:48 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-02-25 18:21:48 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-02-25 18:21:48 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-02-25 18:21:48 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-02-25 18:21:48 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-02-25 18:21:48 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-02-25 18:21:48 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-02-25 18:21:48 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-02-25 18:21:48 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-02-25 18:21:48 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-02-25 18:21:48 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-02-25 18:21:48 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-02-25 18:21:49 [CLIENT] [WARNING] Failed to add pack.mcmeta in resources
+2025-02-25 18:21:49 [CLIENT] [WARNING] Failed to add READ_ME_I_AM_VERY_IMPORTANT in resources
+2025-02-25 18:30:36 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:36 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:36 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:36 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:36 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:36 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:36 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:36 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:36 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:36 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:36 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:36 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:36 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:36 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:36 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:36 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:36 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:36 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:37 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:37 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:37 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:37 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:37 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:37 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:37 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:37 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:37 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:37 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:37 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:37 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:37 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:37 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:37 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:37 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:37 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:37 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:37 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:37 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:38 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:38 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:38 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:38 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:38 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:38 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:38 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:38 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:38 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:38 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:38 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:38 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:38 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:38 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:38 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:38 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:38 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:38 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:38 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:38 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:39 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:39 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:39 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:39 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:39 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:39 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:39 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:39 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:39 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:39 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:39 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:39 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:39 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:39 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:39 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:39 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:39 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:39 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:39 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:39 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:40 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:40 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:40 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:40 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:40 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:40 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:40 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:40 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:40 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:40 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:40 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:40 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:40 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:40 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:40 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:40 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:40 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:40 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:40 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:40 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:41 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:41 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:41 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:41 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:41 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:41 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:41 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:41 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:41 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:41 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:41 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:41 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:41 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:41 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:41 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:41 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:41 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:41 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:41 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:41 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:42 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:42 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:42 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:42 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:42 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:42 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:42 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:42 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:42 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:42 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:42 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:42 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:42 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:42 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:42 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:42 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:42 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:42 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:42 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:42 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:43 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:43 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:43 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:43 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:43 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:43 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:43 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:43 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:43 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:43 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:43 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:43 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:43 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:43 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:43 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:43 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:43 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:43 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:43 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:43 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:44 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:44 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:44 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:44 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:44 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:44 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:44 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:44 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:44 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:44 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:44 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:44 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:44 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:44 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:44 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:44 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:44 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:44 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:44 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:44 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:45 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:45 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:45 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:45 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:45 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:45 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:45 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:45 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:45 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:45 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:45 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:45 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:45 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:45 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:45 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:45 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:45 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:45 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:45 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:45 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:46 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:46 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:46 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:46 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:46 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:46 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:46 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:46 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:46 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:46 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:46 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:46 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:46 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:46 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:46 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:46 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:46 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:46 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:46 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:46 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:47 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:47 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:47 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:47 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:47 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:47 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:47 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:47 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:47 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:47 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:47 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:47 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:47 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:47 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:47 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:47 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:47 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:47 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:47 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:48 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:48 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:48 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:48 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:48 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:48 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:48 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:48 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:48 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:53 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:53 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:53 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:53 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:53 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:53 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:53 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:53 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:54 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:54 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:54 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:54 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:54 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:54 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:54 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:54 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:54 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:54 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:54 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:54 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:54 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:54 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:54 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:54 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:54 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:54 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:54 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:57 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:57 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:57 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:57 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:57 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:57 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:57 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:57 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:57 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:57 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:57 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:57 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:57 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:57 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:57 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:58 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:58 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:58 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:58 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:58 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:58 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:58 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:58 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:58 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:58 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:58 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:58 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:58 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:58 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:58 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:58 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:58 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:58 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:58 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:58 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:59 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:59 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:59 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:59 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:30:59 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:09 [CLIENT] [INFO] Setting user: quaternary
+2025-02-25 18:31:09 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2025-02-25 18:31:10 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-02-25 18:31:10 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-02-25 18:31:10 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-02-25 18:31:10 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-02-25 18:31:10 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-02-25 18:31:10 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-02-25 18:31:10 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-02-25 18:31:10 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-02-25 18:31:10 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-02-25 18:31:10 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-02-25 18:31:10 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-02-25 18:31:10 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-02-25 18:31:10 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-02-25 18:31:10 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-02-25 18:31:10 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-02-25 18:31:10 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-02-25 18:31:10 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-02-25 18:31:11 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-02-25 18:31:11 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-02-25 18:31:11 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-02-25 18:31:11 [CLIENT] [WARNING] Failed to add pack.mcmeta in resources
+2025-02-25 18:31:11 [CLIENT] [WARNING] Failed to add READ_ME_I_AM_VERY_IMPORTANT in resources
+2025-02-25 18:31:13 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:13 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:13 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:13 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:13 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:13 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:13 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:13 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:13 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:13 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:13 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:13 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:14 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:14 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:14 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:14 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:14 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:14 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:14 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:14 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:14 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:14 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:14 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:14 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:14 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:14 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:14 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:14 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:14 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:14 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:15 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:15 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:15 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:15 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:15 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:15 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:15 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:15 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:15 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:15 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:15 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:15 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:15 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:15 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:15 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:15 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:15 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:15 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:15 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:16 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:16 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:16 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:16 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:16 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:16 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:16 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:16 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:16 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:16 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:16 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:16 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:16 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:16 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:16 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:16 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:16 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:16 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:16 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:17 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:17 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:17 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:17 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:17 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:17 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:17 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:17 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:17 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:17 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:17 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:17 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:17 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:17 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:17 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:17 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:17 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:17 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:17 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:18 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:18 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:18 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:18 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:18 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:18 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:18 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:18 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:18 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:18 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:18 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:18 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:18 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:18 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:18 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:18 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:18 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:18 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:18 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:19 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:19 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:19 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:19 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:19 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:19 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:19 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:19 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:19 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:19 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:19 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:19 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:19 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:19 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:19 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:19 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:19 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:19 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:19 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:20 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:20 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:20 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:20 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:20 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:20 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:20 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:20 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:20 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:20 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:20 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:20 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:20 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:20 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:20 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:20 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:20 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:20 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:20 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:20 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:21 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:21 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:21 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:21 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:21 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:21 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:21 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:21 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:21 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:21 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:21 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:21 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:21 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:21 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:21 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:21 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:21 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:21 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:21 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:22 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:22 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:22 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:22 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:22 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:22 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:22 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:22 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:22 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:22 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:22 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:22 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:22 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:22 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:22 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:22 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:22 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:22 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:22 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:22 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:23 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:23 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:23 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:23 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:23 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:23 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:23 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:23 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:23 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:23 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:23 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:23 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:23 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:23 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:23 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:23 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:23 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:23 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:23 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:23 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:24 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:24 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:24 [CLIENT] [INFO] [CHAT] Set the time to 0
+2025-02-25 18:31:24 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:24 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:24 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:24 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:24 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:24 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:24 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:24 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:24 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:24 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:24 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:24 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:24 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:24 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:24 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:24 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:24 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:25 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:25 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:25 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:25 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:25 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:25 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:25 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:25 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:25 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:25 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:25 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:25 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:25 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:25 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:25 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:25 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:25 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:25 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:25 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:25 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:26 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:26 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:26 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:26 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:26 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:26 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:26 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:26 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:26 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:26 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:26 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:26 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:26 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:26 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:26 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:26 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:26 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:26 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:26 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:26 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:27 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:27 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:27 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:27 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:27 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:27 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:27 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:27 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:27 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:27 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:27 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:27 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:27 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:27 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:27 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:27 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:27 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:27 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:27 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:27 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:28 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:28 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:28 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:28 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:28 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:28 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:28 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:28 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:28 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:28 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:28 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:28 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:28 [CLIENT] [INFO] [CHAT] Set the time to 12500
+2025-02-25 18:31:28 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:28 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:28 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:28 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:28 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:28 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:28 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:28 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:29 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:29 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:29 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:29 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:29 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:29 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:29 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:29 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:29 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:29 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:29 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:29 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:29 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:29 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:29 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:29 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:29 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:29 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:29 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:29 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:30 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:30 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:30 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:30 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:30 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:30 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:30 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:30 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:30 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:30 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:30 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:30 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:30 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:31:30 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-02-25 18:33:18 [CLIENT] [INFO] Setting user: quaternary
+2025-02-25 18:33:18 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2025-02-25 18:33:20 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-02-25 18:33:20 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-02-25 18:33:20 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-02-25 18:33:20 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-02-25 18:33:20 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-02-25 18:33:20 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-02-25 18:33:20 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-02-25 18:33:20 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-02-25 18:33:20 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-02-25 18:33:20 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-02-25 18:33:20 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-02-25 18:33:20 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-02-25 18:33:20 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-02-25 18:33:20 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-02-25 18:33:20 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-02-25 18:33:20 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-02-25 18:33:20 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-02-25 18:33:20 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-02-25 18:33:20 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-02-25 18:33:20 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-02-25 18:33:20 [CLIENT] [WARNING] Failed to add pack.mcmeta in resources
+2025-02-25 18:33:20 [CLIENT] [WARNING] Failed to add READ_ME_I_AM_VERY_IMPORTANT in resources
+2025-02-25 18:34:09 [CLIENT] [INFO] Setting user: quaternary
+2025-02-25 18:34:10 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2025-02-25 18:34:11 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-02-25 18:34:11 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-02-25 18:34:11 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-02-25 18:34:11 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-02-25 18:34:11 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-02-25 18:34:11 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-02-25 18:34:11 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-02-25 18:34:11 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-02-25 18:34:11 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-02-25 18:34:11 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-02-25 18:34:11 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-02-25 18:34:11 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-02-25 18:34:11 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-02-25 18:34:11 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-02-25 18:34:11 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-02-25 18:34:11 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-02-25 18:34:11 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-02-25 18:34:11 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-02-25 18:34:11 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-02-25 18:34:11 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-02-25 18:34:12 [CLIENT] [WARNING] Failed to add pack.mcmeta in resources
+2025-02-25 18:34:12 [CLIENT] [WARNING] Failed to add READ_ME_I_AM_VERY_IMPORTANT in resources
+2025-02-25 18:45:36 [CLIENT] [INFO] Setting user: quaternary
+2025-02-25 18:45:36 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2025-02-25 18:45:38 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-02-25 18:45:38 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-02-25 18:45:38 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-02-25 18:45:38 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-02-25 18:45:38 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-02-25 18:45:38 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-02-25 18:45:38 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-02-25 18:45:38 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-02-25 18:45:38 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-02-25 18:45:38 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-02-25 18:45:38 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-02-25 18:45:38 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-02-25 18:45:38 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-02-25 18:45:38 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-02-25 18:45:38 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-02-25 18:45:38 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-02-25 18:45:38 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-02-25 18:45:38 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-02-25 18:45:38 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-02-25 18:45:38 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-02-25 18:45:38 [CLIENT] [WARNING] Failed to add pack.mcmeta in resources
+2025-02-25 18:45:38 [CLIENT] [WARNING] Failed to add READ_ME_I_AM_VERY_IMPORTANT in resources
+2025-02-25 18:46:33 [CLIENT] [INFO] Setting user: quaternary
+2025-02-25 18:46:33 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2025-02-25 18:46:35 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-02-25 18:46:35 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-02-25 18:46:35 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-02-25 18:46:35 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-02-25 18:46:35 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-02-25 18:46:35 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-02-25 18:46:35 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-02-25 18:46:35 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-02-25 18:46:35 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-02-25 18:46:35 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-02-25 18:46:35 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-02-25 18:46:35 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-02-25 18:46:35 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-02-25 18:46:35 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-02-25 18:46:35 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-02-25 18:46:35 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-02-25 18:46:35 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-02-25 18:46:35 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-02-25 18:46:35 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-02-25 18:46:35 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-02-25 18:46:35 [CLIENT] [WARNING] Failed to add pack.mcmeta in resources
+2025-02-25 18:46:35 [CLIENT] [WARNING] Failed to add READ_ME_I_AM_VERY_IMPORTANT in resources
+2025-02-25 18:47:10 [CLIENT] [INFO] Setting user: quaternary
+2025-02-25 18:47:10 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2025-02-25 18:47:12 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-02-25 18:47:12 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-02-25 18:47:12 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-02-25 18:47:12 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-02-25 18:47:12 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-02-25 18:47:12 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-02-25 18:47:12 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-02-25 18:47:12 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-02-25 18:47:12 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-02-25 18:47:12 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-02-25 18:47:12 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-02-25 18:47:12 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-02-25 18:47:12 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-02-25 18:47:12 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-02-25 18:47:12 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-02-25 18:47:12 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-02-25 18:47:12 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-02-25 18:47:12 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-02-25 18:47:12 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-02-25 18:47:12 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-02-25 18:47:12 [CLIENT] [WARNING] Failed to add pack.mcmeta in resources
+2025-02-25 18:47:12 [CLIENT] [WARNING] Failed to add READ_ME_I_AM_VERY_IMPORTANT in resources
+2025-02-25 18:47:30 [CLIENT] [INFO] Setting user: quaternary
+2025-02-25 18:47:30 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2025-02-25 18:47:32 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-02-25 18:47:32 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-02-25 18:47:32 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-02-25 18:47:32 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-02-25 18:47:32 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-02-25 18:47:32 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-02-25 18:47:32 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-02-25 18:47:32 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-02-25 18:47:32 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-02-25 18:47:32 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-02-25 18:47:32 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-02-25 18:47:32 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-02-25 18:47:32 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-02-25 18:47:32 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-02-25 18:47:32 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-02-25 18:47:32 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-02-25 18:47:32 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-02-25 18:47:32 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-02-25 18:47:32 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-02-25 18:47:32 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-02-25 18:47:32 [CLIENT] [WARNING] Failed to add pack.mcmeta in resources
+2025-02-25 18:47:32 [CLIENT] [WARNING] Failed to add READ_ME_I_AM_VERY_IMPORTANT in resources
+2025-05-30 16:10:24 [CLIENT] [INFO] Setting user: quaternary
+2025-05-30 16:10:24 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2025-05-30 16:10:26 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-05-30 16:10:26 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-05-30 16:10:26 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-05-30 16:10:26 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-05-30 16:10:26 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-05-30 16:10:26 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-05-30 16:10:26 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-05-30 16:10:26 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-05-30 16:10:26 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-05-30 16:10:26 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-05-30 16:10:26 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-05-30 16:10:26 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-05-30 16:10:26 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-05-30 16:10:26 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-05-30 16:10:26 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-05-30 16:10:26 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-05-30 16:10:26 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-05-30 16:10:26 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-05-30 16:10:26 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-05-30 16:10:26 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-05-30 16:10:26 [CLIENT] [WARNING] Failed to add pack.mcmeta in resources
+2025-05-30 16:10:26 [CLIENT] [WARNING] Failed to add READ_ME_I_AM_VERY_IMPORTANT in resources
+2025-05-30 16:30:24 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-05-30 16:30:26 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-05-30 16:30:30 [CLIENT] [INFO] [CHAT] Set the time to 12500
+2025-05-30 16:30:31 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-05-30 16:32:53 [CLIENT] [INFO] Setting user: quaternary
+2025-05-30 16:32:53 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2025-05-30 16:32:55 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-05-30 16:32:55 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-05-30 16:32:55 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-05-30 16:32:55 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-05-30 16:32:55 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-05-30 16:32:55 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-05-30 16:32:55 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-05-30 16:32:55 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-05-30 16:32:55 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-05-30 16:32:55 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-05-30 16:32:55 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-05-30 16:32:55 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-05-30 16:32:55 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-05-30 16:32:55 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-05-30 16:32:55 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-05-30 16:32:55 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-05-30 16:32:55 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-05-30 16:32:55 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-05-30 16:32:55 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-05-30 16:32:55 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-05-30 16:32:55 [CLIENT] [WARNING] Failed to add pack.mcmeta in resources
+2025-05-30 16:32:55 [CLIENT] [WARNING] Failed to add READ_ME_I_AM_VERY_IMPORTANT in resources
+2025-05-30 16:33:39 [CLIENT] [INFO] [CHAT] <quaternary> waa
+2025-05-30 16:41:21 [CLIENT] [INFO] Setting user: quaternary
+2025-05-30 16:41:21 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2025-05-30 16:41:23 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-05-30 16:41:23 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-05-30 16:41:23 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-05-30 16:41:23 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-05-30 16:41:23 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-05-30 16:41:23 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-05-30 16:41:23 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-05-30 16:41:23 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-05-30 16:41:23 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-05-30 16:41:23 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-05-30 16:41:23 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-05-30 16:41:23 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-05-30 16:41:23 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-05-30 16:41:23 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-05-30 16:41:23 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-05-30 16:41:23 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-05-30 16:41:23 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-05-30 16:41:23 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-05-30 16:41:24 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-05-30 16:41:24 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-05-30 16:41:24 [CLIENT] [WARNING] Failed to add pack.mcmeta in resources
+2025-05-30 16:41:24 [CLIENT] [WARNING] Failed to add READ_ME_I_AM_VERY_IMPORTANT in resources
+2025-05-30 16:45:06 [CLIENT] [INFO] Setting user: quaternary
+2025-05-30 16:45:06 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2025-05-30 16:45:08 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-05-30 16:45:08 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-05-30 16:45:08 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-05-30 16:45:08 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-05-30 16:45:08 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-05-30 16:45:08 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-05-30 16:45:08 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-05-30 16:45:08 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-05-30 16:45:08 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-05-30 16:45:08 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-05-30 16:45:08 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-05-30 16:45:08 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-05-30 16:45:08 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-05-30 16:45:08 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-05-30 16:45:08 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-05-30 16:45:08 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-05-30 16:45:08 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-05-30 16:45:08 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-05-30 16:45:08 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-05-30 16:45:08 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-05-30 16:45:09 [CLIENT] [WARNING] Failed to add pack.mcmeta in resources
+2025-05-30 16:45:09 [CLIENT] [WARNING] Failed to add READ_ME_I_AM_VERY_IMPORTANT in resources
+2025-05-30 16:50:02 [CLIENT] [INFO] Setting user: quaternary
+2025-05-30 16:50:02 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2025-05-30 16:50:04 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-05-30 16:50:04 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-05-30 16:50:04 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-05-30 16:50:04 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-05-30 16:50:04 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-05-30 16:50:04 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-05-30 16:50:04 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-05-30 16:50:04 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-05-30 16:50:04 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-05-30 16:50:04 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-05-30 16:50:04 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-05-30 16:50:04 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-05-30 16:50:04 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-05-30 16:50:04 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-05-30 16:50:04 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-05-30 16:50:04 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-05-30 16:50:04 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-05-30 16:50:04 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-05-30 16:50:04 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-05-30 16:50:04 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-05-30 16:50:05 [CLIENT] [WARNING] Failed to add pack.mcmeta in resources
+2025-05-30 16:50:05 [CLIENT] [WARNING] Failed to add READ_ME_I_AM_VERY_IMPORTANT in resources
+2025-05-30 16:50:08 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:08 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:08 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:08 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:08 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:08 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:08 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:08 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:08 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:08 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:08 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:08 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:08 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:08 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:08 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:08 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:08 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:08 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:09 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:09 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:09 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:09 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:09 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:09 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:09 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:09 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:09 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:09 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:09 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:09 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:09 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:09 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:09 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:09 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:09 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:09 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:10 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:10 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:10 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:10 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:10 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:10 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:10 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:10 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:10 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:10 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:10 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:10 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:10 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:10 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:10 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:10 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:10 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:10 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:10 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:11 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:11 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:11 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:11 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:11 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:11 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:11 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:11 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:11 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:11 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:11 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:11 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:11 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:11 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:11 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:50:11 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:51:05 [CLIENT] [INFO] Setting user: quaternary
+2025-05-30 16:51:05 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2025-05-30 16:51:07 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-05-30 16:51:07 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-05-30 16:51:07 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-05-30 16:51:07 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-05-30 16:51:07 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-05-30 16:51:07 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-05-30 16:51:07 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-05-30 16:51:07 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-05-30 16:51:07 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-05-30 16:51:07 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-05-30 16:51:07 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-05-30 16:51:07 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-05-30 16:51:07 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-05-30 16:51:07 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-05-30 16:51:07 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-05-30 16:51:07 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-05-30 16:51:07 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-05-30 16:51:07 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-05-30 16:51:07 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-05-30 16:51:07 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-05-30 16:51:08 [CLIENT] [WARNING] Failed to add pack.mcmeta in resources
+2025-05-30 16:51:08 [CLIENT] [WARNING] Failed to add READ_ME_I_AM_VERY_IMPORTANT in resources
+2025-05-30 16:51:53 [CLIENT] [INFO] [CHAT] Set the time to 12500
+2025-05-30 16:52:44 [CLIENT] [INFO] Setting user: quaternary
+2025-05-30 16:52:44 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2025-05-30 16:52:46 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-05-30 16:52:46 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-05-30 16:52:46 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-05-30 16:52:46 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-05-30 16:52:46 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-05-30 16:52:46 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-05-30 16:52:46 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-05-30 16:52:46 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-05-30 16:52:46 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-05-30 16:52:46 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-05-30 16:52:46 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-05-30 16:52:46 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-05-30 16:52:46 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-05-30 16:52:46 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-05-30 16:52:46 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-05-30 16:52:46 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-05-30 16:52:46 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-05-30 16:52:46 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-05-30 16:52:46 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-05-30 16:52:46 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-05-30 16:52:46 [CLIENT] [WARNING] Failed to add pack.mcmeta in resources
+2025-05-30 16:52:46 [CLIENT] [WARNING] Failed to add READ_ME_I_AM_VERY_IMPORTANT in resources
+2025-05-30 16:52:56 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-05-30 16:52:56 [CLIENT] [INFO] [CHAT] Cannot sleep now.§r
+2025-05-30 16:52:57 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-05-30 16:52:57 [CLIENT] [INFO] [CHAT] Cannot sleep now.§r
+2025-05-30 16:52:59 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-05-30 16:52:59 [CLIENT] [INFO] [CHAT] Cannot sleep now.§r
+2025-05-30 16:53:03 [CLIENT] [INFO] [CHAT] Set the time to 12500
+2025-05-30 16:53:05 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2025-05-30 16:53:05 [CLIENT] [INFO] [CHAT] Cannot sleep now.§r
+2025-05-30 16:53:12 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:53:12 [CLIENT] [INFO] [CHAT] Cannot sleep now.§r
+2025-05-30 16:53:14 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:53:14 [CLIENT] [INFO] [CHAT] Cannot sleep now.§r
+2025-05-30 16:53:14 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:53:14 [CLIENT] [INFO] [CHAT] Cannot sleep now.§r
+2025-05-30 16:53:15 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:53:15 [CLIENT] [INFO] [CHAT] Cannot sleep now.§r
+2025-05-30 16:53:15 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2025-05-30 16:53:15 [CLIENT] [INFO] [CHAT] Cannot sleep now.§r
+2025-05-30 16:54:28 [CLIENT] [INFO] Setting user: quaternary
+2025-05-30 16:54:28 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2025-05-30 16:54:30 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-05-30 16:54:30 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-05-30 16:54:30 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-05-30 16:54:30 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-05-30 16:54:30 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-05-30 16:54:30 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-05-30 16:54:30 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-05-30 16:54:30 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-05-30 16:54:30 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-05-30 16:54:30 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-05-30 16:54:30 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-05-30 16:54:30 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-05-30 16:54:30 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-05-30 16:54:30 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-05-30 16:54:30 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-05-30 16:54:30 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-05-30 16:54:30 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-05-30 16:54:30 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-05-30 16:54:30 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-05-30 16:54:30 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-05-30 16:54:31 [CLIENT] [WARNING] Failed to add pack.mcmeta in resources
+2025-05-30 16:54:31 [CLIENT] [WARNING] Failed to add READ_ME_I_AM_VERY_IMPORTANT in resources
+2025-05-30 16:54:45 [CLIENT] [INFO] Stopping!
+2025-05-30 16:56:42 [CLIENT] [INFO] Setting user: quaternary
+2025-05-30 16:56:42 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2025-05-30 16:56:44 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-05-30 16:56:44 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-05-30 16:56:44 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-05-30 16:56:44 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-05-30 16:56:44 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-05-30 16:56:44 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-05-30 16:56:44 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-05-30 16:56:44 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-05-30 16:56:44 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-05-30 16:56:44 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-05-30 16:56:44 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2025-05-30 16:56:44 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2025-05-30 16:56:44 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2025-05-30 16:56:44 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2025-05-30 16:56:44 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2025-05-30 16:56:44 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2025-05-30 16:56:44 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2025-05-30 16:56:44 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2025-05-30 16:56:44 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2025-05-30 16:56:44 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2025-05-30 16:56:45 [CLIENT] [WARNING] Failed to add pack.mcmeta in resources
+2025-05-30 16:56:45 [CLIENT] [WARNING] Failed to add READ_ME_I_AM_VERY_IMPORTANT in resources
+2025-05-30 16:57:39 [CLIENT] [INFO] Stopping!
+2026-10-25 19:09:41 [CLIENT] [INFO] Setting user: quaternary
+2026-10-25 19:09:41 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2026-10-25 19:09:42 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2026-10-25 19:09:42 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2026-10-25 19:09:42 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2026-10-25 19:09:42 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2026-10-25 19:09:42 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2026-10-25 19:09:42 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2026-10-25 19:09:42 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2026-10-25 19:09:42 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/sleepingbag/textures/items/sleeping_bag.png, but that file does not exist. Ignoring.
+2026-10-25 19:09:42 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2026-10-25 19:09:42 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2026-10-25 19:09:42 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2026-10-25 19:09:42 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2026-10-25 19:09:42 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2026-10-25 19:09:42 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2026-10-25 19:09:42 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2026-10-25 19:09:42 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2026-10-25 19:09:42 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2026-10-25 19:09:42 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/sleepingbag/textures/items/sleeping_bag.png, but that file does not exist. Ignoring.
+2026-10-25 19:09:42 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2026-10-25 19:09:42 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2026-10-25 19:09:43 [CLIENT] [WARNING] Failed to add pack.mcmeta in resources
+2026-10-25 19:09:43 [CLIENT] [WARNING] Failed to add READ_ME_I_AM_VERY_IMPORTANT in resources
+2026-10-25 19:09:57 [CLIENT] [INFO] Stopping!
+2026-10-25 19:11:38 [CLIENT] [INFO] Setting user: quaternary
+2026-10-25 19:11:38 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2026-10-25 19:11:39 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2026-10-25 19:11:39 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2026-10-25 19:11:39 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2026-10-25 19:11:39 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2026-10-25 19:11:39 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2026-10-25 19:11:39 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2026-10-25 19:11:39 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2026-10-25 19:11:39 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/sleepingbag/textures/items/sleeping_bag.png, but that file does not exist. Ignoring.
+2026-10-25 19:11:40 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2026-10-25 19:11:40 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2026-10-25 19:11:40 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2026-10-25 19:11:40 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2026-10-25 19:11:40 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2026-10-25 19:11:40 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2026-10-25 19:11:40 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2026-10-25 19:11:40 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2026-10-25 19:11:40 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2026-10-25 19:11:40 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/sleepingbag/textures/items/sleeping_bag.png, but that file does not exist. Ignoring.
+2026-10-25 19:11:40 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2026-10-25 19:11:40 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2026-10-25 19:11:40 [CLIENT] [WARNING] Failed to add pack.mcmeta in resources
+2026-10-25 19:11:40 [CLIENT] [WARNING] Failed to add READ_ME_I_AM_VERY_IMPORTANT in resources
+2026-10-25 19:12:04 [CLIENT] [INFO] [CHAT] You may not rest now, there are monsters nearby§r
+2026-10-25 19:39:18 [CLIENT] [INFO] Setting user: quaternary
+2026-10-25 19:39:18 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2026-10-25 19:39:19 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2026-10-25 19:39:19 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2026-10-25 19:39:19 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2026-10-25 19:39:19 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2026-10-25 19:39:19 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2026-10-25 19:39:19 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2026-10-25 19:39:19 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2026-10-25 19:39:19 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/sleepingbag/textures/items/sleeping_bag.png, but that file does not exist. Ignoring.
+2026-10-25 19:39:19 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2026-10-25 19:39:19 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2026-10-25 19:39:19 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2026-10-25 19:39:19 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2026-10-25 19:39:19 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2026-10-25 19:39:19 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2026-10-25 19:39:19 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2026-10-25 19:39:19 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2026-10-25 19:39:19 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2026-10-25 19:39:19 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/sleepingbag/textures/items/sleeping_bag.png, but that file does not exist. Ignoring.
+2026-10-25 19:39:19 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2026-10-25 19:39:19 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2026-10-25 19:39:20 [CLIENT] [WARNING] Failed to add pack.mcmeta in resources
+2026-10-25 19:39:20 [CLIENT] [WARNING] Failed to add READ_ME_I_AM_VERY_IMPORTANT in resources
+2026-10-25 19:39:34 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2026-10-25 19:39:36 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2026-10-25 19:39:41 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2026-10-25 19:42:25 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2026-10-25 19:42:30 [CLIENT] [INFO] [CHAT] Set the time to 12500
+2026-10-25 19:42:31 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2026-10-25 19:44:31 [CLIENT] [INFO] Setting user: quaternary
+2026-10-25 19:44:31 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2026-10-25 19:44:32 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2026-10-25 19:44:32 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2026-10-25 19:44:32 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2026-10-25 19:44:32 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2026-10-25 19:44:32 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2026-10-25 19:44:32 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2026-10-25 19:44:32 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2026-10-25 19:44:32 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2026-10-25 19:44:32 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2026-10-25 19:44:32 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2026-10-25 19:44:32 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2026-10-25 19:44:32 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2026-10-25 19:44:32 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2026-10-25 19:44:32 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2026-10-25 19:44:32 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2026-10-25 19:44:32 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2026-10-25 19:44:32 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2026-10-25 19:44:32 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2026-10-25 19:44:33 [CLIENT] [WARNING] Failed to add pack.mcmeta in resources
+2026-10-25 19:44:33 [CLIENT] [WARNING] Failed to add READ_ME_I_AM_VERY_IMPORTANT in resources
+2026-10-25 19:44:47 [CLIENT] [INFO] [CHAT] You can only sleep at night§r
+2026-10-25 19:58:05 [CLIENT] [INFO] Setting user: quaternary
+2026-10-25 19:58:05 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2026-10-25 19:58:06 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2026-10-25 19:58:06 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2026-10-25 19:58:06 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2026-10-25 19:58:06 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2026-10-25 19:58:06 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2026-10-25 19:58:06 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2026-10-25 19:58:06 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2026-10-25 19:58:06 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2026-10-25 19:58:06 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2026-10-25 19:58:06 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2026-10-25 19:58:06 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2026-10-25 19:58:06 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2026-10-25 19:58:06 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2026-10-25 19:58:06 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2026-10-25 19:58:06 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2026-10-25 19:58:06 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2026-10-25 19:58:06 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2026-10-25 19:58:06 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2026-10-25 19:58:07 [CLIENT] [WARNING] Failed to add pack.mcmeta in resources
+2026-10-25 19:58:07 [CLIENT] [WARNING] Failed to add READ_ME_I_AM_VERY_IMPORTANT in resources
+2026-10-25 19:59:38 [CLIENT] [INFO] Setting user: quaternary
+2026-10-25 19:59:38 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2026-10-25 19:59:40 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2026-10-25 19:59:40 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2026-10-25 19:59:40 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2026-10-25 19:59:40 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2026-10-25 19:59:40 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2026-10-25 19:59:40 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2026-10-25 19:59:40 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2026-10-25 19:59:40 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2026-10-25 19:59:40 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2026-10-25 19:59:40 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2026-10-25 19:59:40 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2026-10-25 19:59:40 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2026-10-25 19:59:40 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2026-10-25 19:59:40 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2026-10-25 19:59:40 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2026-10-25 19:59:40 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2026-10-25 19:59:40 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2026-10-25 19:59:40 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2026-10-25 19:59:40 [CLIENT] [WARNING] Failed to add pack.mcmeta in resources
+2026-10-25 19:59:40 [CLIENT] [WARNING] Failed to add READ_ME_I_AM_VERY_IMPORTANT in resources
+2026-10-25 20:01:17 [CLIENT] [INFO] Setting user: quaternary
+2026-10-25 20:01:17 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2026-10-25 20:01:18 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2026-10-25 20:01:18 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2026-10-25 20:01:18 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2026-10-25 20:01:18 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2026-10-25 20:01:18 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2026-10-25 20:01:18 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2026-10-25 20:01:18 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2026-10-25 20:01:18 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2026-10-25 20:01:18 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2026-10-25 20:01:18 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2026-10-25 20:01:18 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2026-10-25 20:01:18 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2026-10-25 20:01:18 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2026-10-25 20:01:18 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2026-10-25 20:01:18 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2026-10-25 20:01:18 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2026-10-25 20:01:18 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2026-10-25 20:01:18 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2026-10-25 20:01:18 [CLIENT] [WARNING] Failed to add pack.mcmeta in resources
+2026-10-25 20:01:18 [CLIENT] [WARNING] Failed to add READ_ME_I_AM_VERY_IMPORTANT in resources
+2026-10-25 20:03:00 [CLIENT] [INFO] Setting user: quaternary
+2026-10-25 20:03:00 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2026-10-25 20:03:01 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2026-10-25 20:03:01 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2026-10-25 20:03:01 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2026-10-25 20:03:01 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2026-10-25 20:03:01 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2026-10-25 20:03:01 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2026-10-25 20:03:01 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2026-10-25 20:03:01 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2026-10-25 20:03:01 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2026-10-25 20:03:01 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2026-10-25 20:03:01 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2026-10-25 20:03:01 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2026-10-25 20:03:01 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2026-10-25 20:03:01 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2026-10-25 20:03:01 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2026-10-25 20:03:01 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2026-10-25 20:03:01 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2026-10-25 20:03:01 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2026-10-25 20:03:01 [CLIENT] [WARNING] Failed to add pack.mcmeta in resources
+2026-10-25 20:03:01 [CLIENT] [WARNING] Failed to add READ_ME_I_AM_VERY_IMPORTANT in resources
+2026-10-25 20:03:43 [CLIENT] [INFO] Setting user: quaternary
+2026-10-25 20:03:43 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2026-10-25 20:03:44 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2026-10-25 20:03:44 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2026-10-25 20:03:44 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2026-10-25 20:03:44 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2026-10-25 20:03:44 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2026-10-25 20:03:44 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2026-10-25 20:03:44 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2026-10-25 20:03:44 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2026-10-25 20:03:44 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2026-10-25 20:03:44 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2026-10-25 20:03:44 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2026-10-25 20:03:44 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2026-10-25 20:03:44 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2026-10-25 20:03:44 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2026-10-25 20:03:44 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2026-10-25 20:03:44 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2026-10-25 20:03:44 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2026-10-25 20:03:44 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2026-10-25 20:03:44 [CLIENT] [WARNING] Failed to add pack.mcmeta in resources
+2026-10-25 20:03:44 [CLIENT] [WARNING] Failed to add READ_ME_I_AM_VERY_IMPORTANT in resources
+2026-10-25 20:03:56 [CLIENT] [INFO] [CHAT] §cYou may not rest now, there are monsters nearby
+2026-10-25 20:04:05 [CLIENT] [INFO] [CHAT] §cYou can only sleep at night
+2026-10-25 20:04:06 [CLIENT] [INFO] [CHAT] §cYou can only sleep at night
+2026-10-25 20:04:07 [CLIENT] [INFO] [CHAT] §cYou can only sleep at night
+2026-10-25 20:04:07 [CLIENT] [INFO] [CHAT] §cYou can only sleep at night
+2026-10-25 20:04:07 [CLIENT] [INFO] [CHAT] §cYou can only sleep at night
+2026-10-25 20:04:07 [CLIENT] [INFO] [CHAT] §cYou can only sleep at night
+2026-10-25 20:04:07 [CLIENT] [INFO] [CHAT] §cYou can only sleep at night
+2026-10-25 20:04:08 [CLIENT] [INFO] [CHAT] §cYou can only sleep at night
+2026-10-25 20:04:08 [CLIENT] [INFO] [CHAT] §cYou can only sleep at night
+2026-10-25 20:04:08 [CLIENT] [INFO] [CHAT] §cYou can only sleep at night
+2026-10-25 20:04:08 [CLIENT] [INFO] [CHAT] §cYou can only sleep at night
+2026-10-25 20:04:08 [CLIENT] [INFO] [CHAT] §cYou can only sleep at night
+2026-10-25 20:09:31 [CLIENT] [INFO] Setting user: quaternary
+2026-10-25 20:09:31 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2026-10-25 20:09:32 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2026-10-25 20:09:32 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2026-10-25 20:09:32 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2026-10-25 20:09:32 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2026-10-25 20:09:32 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2026-10-25 20:09:32 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2026-10-25 20:09:32 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2026-10-25 20:09:32 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2026-10-25 20:09:32 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2026-10-25 20:09:32 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2026-10-25 20:09:32 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2026-10-25 20:09:32 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2026-10-25 20:09:32 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2026-10-25 20:09:32 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2026-10-25 20:09:32 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2026-10-25 20:09:32 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2026-10-25 20:09:32 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2026-10-25 20:09:32 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2026-10-25 20:09:33 [CLIENT] [WARNING] Failed to add pack.mcmeta in resources
+2026-10-25 20:09:33 [CLIENT] [WARNING] Failed to add READ_ME_I_AM_VERY_IMPORTANT in resources
+2026-10-25 20:10:14 [CLIENT] [INFO] Setting user: quaternary
+2026-10-25 20:10:14 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2026-10-25 20:10:15 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2026-10-25 20:10:15 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2026-10-25 20:10:15 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2026-10-25 20:10:15 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2026-10-25 20:10:15 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2026-10-25 20:10:15 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2026-10-25 20:10:15 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2026-10-25 20:10:15 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2026-10-25 20:10:15 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2026-10-25 20:10:15 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2026-10-25 20:10:15 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2026-10-25 20:10:15 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2026-10-25 20:10:15 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2026-10-25 20:10:15 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2026-10-25 20:10:15 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2026-10-25 20:10:15 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2026-10-25 20:10:15 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/null.png, but that file does not exist. Ignoring.
+2026-10-25 20:10:15 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2026-10-25 20:10:15 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2026-10-25 20:10:16 [CLIENT] [WARNING] Failed to add pack.mcmeta in resources
+2026-10-25 20:10:16 [CLIENT] [WARNING] Failed to add READ_ME_I_AM_VERY_IMPORTANT in resources
